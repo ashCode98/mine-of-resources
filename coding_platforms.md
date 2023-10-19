@@ -1,17 +1,15 @@
 Best Coding Platforms to practice yout skills
 
-[Hackerrank]{https://www.hackerrank.com/}
-[]https://www.hackerearth.com/
-[]https://www.codechef.com/
-[]https://www.topcoder.com/
-[]https://www.codingame.com/start
-[]https://www.codewars.com/
-[]https://www.coderbyte.com/
-[]https://www.projecteuler.net/
-[]https://www.codeforces.com/
-[]https://www.leetcode.com/
-[]https://www.spoj.com/
-[]https://www.interviewbit.com/
-[]https://www.codeeval.com/
-[]https://www.codingame.com/start
-[Google](https://www.google.com "Google")
+[Hackerrank](https://www.hackerrank.com/ "HackerRank")
+[Hackerearth](https://www.hackerearth.com/ "Hackerearth")
+[Codechef](https://www.codechef.com/)
+[topcoder](https://www.topcoder.com/)
+[codingame](https://www.codingame.com/start)
+[codewars](https://www.codewars.com/)
+[coderbyte](https://www.coderbyte.com/)
+[projecteuler](https://www.projecteuler.net/)
+[codeforces](https://www.codeforces.com/)
+[leetcode](https://www.leetcode.com/)
+[spoj](https://www.spoj.com/)
+[interviewwbit](https://www.interviewbit.com/)
+[codeeval](https://www.codeeval.com/)
