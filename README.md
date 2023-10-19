@@ -37,8 +37,7 @@ Best Coding Platforms to practice your skills
 Good Resources for Competitive Programming
 
 
-## Algorithms for CP
-
+* [Algorithms for CP](https://www.notion.so/Algorithms-for-CP-4e5b5b7b8b9a4b6e9b0b0b0b0b0b0b0b?pvs=21)
 * [CSES Problem Set](https://www.notion.so/CSES-Problem-Set-da84c1c424f241f08fc56c2bfd3e1155?pvs=21)
 * [Competitive Programming Topic-List](https://www.notion.so/Competitive-Programming-Topic-List-9902b289f7264c96b256c109362cfecd?pvs=21)
 * [USACO Guide](https://www.notion.so/USACO-Guide-a58396ff58a549aa84ad28dcd42c4e24?pvs=21)
