@@ -1,15 +1,15 @@
-Best Coding Platforms to practice yout skills
+Best Coding Platforms to practice your skills
 
-[Hackerrank](https://www.hackerrank.com/ "HackerRank")
-[Hackerearth](https://www.hackerearth.com/ "Hackerearth")
-[Codechef](https://www.codechef.com/)
-[topcoder](https://www.topcoder.com/)
-[codingame](https://www.codingame.com/start)
-[codewars](https://www.codewars.com/)
-[coderbyte](https://www.coderbyte.com/)
-[projecteuler](https://www.projecteuler.net/)
-[codeforces](https://www.codeforces.com/)
-[leetcode](https://www.leetcode.com/)
-[spoj](https://www.spoj.com/)
-[interviewwbit](https://www.interviewbit.com/)
-[codeeval](https://www.codeeval.com/)
+[Hackerrank](https://www.hackerrank.com/ "HackerRank") <br>
+[Hackerearth](https://www.hackerearth.com/ "Hackerearth") <br>
+[Codechef](https://www.codechef.com/) <br>
+[topcoder](https://www.topcoder.com/) <br>
+[codingame](https://www.codingame.com/start) <br>
+[codewars](https://www.codewars.com/) <br>
+[coderbyte](https://www.coderbyte.com/) <br>
+[projecteuler](https://www.projecteuler.net/) <br>
+[codeforces](https://www.codeforces.com/) <br>
+[leetcode](https://www.leetcode.com/) <br>
+[spoj](https://www.spoj.com/) <br>
+[interviewwbit](https://www.interviewbit.com/) <br>
+[codeeval](https://www.codeeval.com/) <br>
