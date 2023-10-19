@@ -76,11 +76,14 @@ Best Coding Platforms to practice your skills
 
 
 <br>Learn CSS by playing games<br>
-🎮 flexboxfroggy.com
-🎮 flexboxdefense.com
-🎮 cssgridgarden.com
-🎮 flukeout.github.io
-🎮 cssbattle.dev
-🎮 guess-css.app
-🎮 css-speedrun.netlify.app
-🎮 codepip.com
+
+
+
+* [Flexbox Froggy](flexboxfroggy.com)
+* [Flexbox Defense](flexboxdefense.com)
+* [CSS Grid Garden](cssgridgarden.com)
+* [FlukeOut](flukeout.github.io)
+* [CSS Battle](cssbattle.dev)
+* [Guess CSS](guess-css.app)
+* [CSS Speedrun](css-speedrun.netlify.app)
+* [Codepip](codepip.com)
