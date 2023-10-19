@@ -35,7 +35,7 @@ Best Coding Platforms to practice your skills
 
 
 
-Good Resources for Competitive Programming
+<br>Good Resources for Competitive Programming<br>
 
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
@@ -56,7 +56,7 @@ Good Resources for Competitive Programming
 
 
 
-Good Resources for Data Structures and Algorithms
+<br>Good Resources for Data Structures and Algorithms<br>
 
 
 
@@ -72,3 +72,15 @@ Good Resources for Data Structures and Algorithms
 * Abdul Bari: https://www.youtube.com/@abdul_bari/featured
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
+
+
+
+<br>Learn CSS by playing games<br>
+🎮 flexboxfroggy.com
+🎮 flexboxdefense.com
+🎮 cssgridgarden.com
+🎮 flukeout.github.io
+🎮 cssbattle.dev
+🎮 guess-css.app
+🎮 css-speedrun.netlify.app
+🎮 codepip.com
