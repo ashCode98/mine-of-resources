@@ -24,3 +24,11 @@ Best Coding Platforms to practice your skills
 * interviewwbit: https://www.interviewbit.com/
 * codeeval: https://www.codeeval.com/
 * Microsoft Makecode: https://makecode.com
+* GFG Practice: https://practice.geeksforgeeks.org/
+* W3Schools: https://www.w3schools.com/
+* TakeUForward: https://www.takeuforward.com/
+* TutorialsPoint: https://www.tutorialspoint.com/index.htm
+* Sololearn: https://www.sololearn.com/
+* StudyTonight: https://www.studytonight.com/
+* MDN Web Docs(best for Development): https://developer.mozilla.org/en-US/
+* Roadmap.sh(All the roadmaps): https://roadmap.sh/
