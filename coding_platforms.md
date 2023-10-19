@@ -14,3 +14,4 @@ Best Coding Platforms to practice yout skills
 []https://www.interviewbit.com/
 []https://www.codeeval.com/
 []https://www.codingame.com/start
+[Google](https://www.google.com "Google")
