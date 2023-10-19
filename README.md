@@ -42,9 +42,9 @@ Good Resources for Competitive Programming
 * Competitive Programming Topic-List: https://blog.shahjalalshohag.com/topic-list/
 * USACO Guide: https://usaco.guide/dashboard/
 * CLIST: https://clist.by/
-* All resources to learn competitive programming: https://codeforces.com/blog/entry/111622
+* Codeforce Blog for CP: https://codeforces.com/blog/entry/111622
 * Blog to reach Master: https://codeforces.com/blog/entry/97654
-* Competitive Programming Roadmap: https://drive.google.com/file/d/16Jydn250Ue7K7hOfzLxw4p5jFF4ZCqWT/view?pli=1
+* CP Roadmap: https://drive.google.com/file/d/16Jydn250Ue7K7hOfzLxw4p5jFF4ZCqWT/view?pli=1
 * Striver CP Sheet: https://takeuforward.org/interview-experience/strivers-cp-sheet/
 * Errichto Algorithms - Youtube: https://www.youtube.com/@Errichto
 * (tourist)Gennady Korotkevich - Youtube: https://www.youtube.com/@que_tourist
