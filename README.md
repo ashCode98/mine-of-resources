@@ -1,6 +1,6 @@
 # BEST_REPOSITORY_FOR_ME_TO_LEARN_ANYTHING
 
-# Best Coding Platforms to practice your skills<br><br>
+# Best Coding Platforms to practice your skills<br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -33,9 +33,8 @@
 * Roadmap.sh(All the roadmaps): https://roadmap.sh/
 * Replit: https://replit.com/
 * Codepen: https://codepen.io/
-<br>
 
-# Good Resources for Competitive Programming<br><br>
+# Good Resources for Competitive Programming<br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
 * CSES Problem Set: https://cses.fi/problemset/
@@ -52,9 +51,8 @@
 * Luv - Good CP Series: https://www.youtube.com/@iamluv/featured
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
-<br>
 
-# Good Resources for Data Structures and Algorithms<br><br>
+# Good Resources for Data Structures and Algorithms<br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 * Striver’s SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
@@ -68,9 +66,8 @@
 * Abdul Bari: https://www.youtube.com/@abdul_bari/featured
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
-<br>
 
-# Learn CSS by playing games<br><br>
+# Learn CSS by playing games<br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
 * Flexbox Defense: https://flexboxdefense.com
@@ -80,16 +77,14 @@
 * Guess CSS: https://guess-css.app
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
-<br>
 
-# Improve your typing speed<br><br>
+# Improve your typing speed<br>
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
 * Keymash: https://keymash.io/
-<br>
 
-# Tools and softwares which can help you to stay productive and focused<br><br>
+# Tools and softwares which can help you to stay productive and focused<br>
 
 * Pomodoro Timer(Manage your time): https://pomofocus.io/
 * GoogleDrive(cloud storage): https://www.google.com/drive/
@@ -99,14 +94,13 @@
 * Visual Studio Code(Best Code editor): https://code.visualstudio.com/
 * Major League Hacking: https://mlh.io/
 * Devswag(Get swags and goodies): https://devswag.io/
-<br>
 
-# Various AI Tools<br><br>
+# Various AI Tools<br>
 
 ![](Productive_AI_apps.webp)
-<br>
+*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
-# Best YouTube Channels for Learning<br><br>
+# Best YouTube Channels for Learning<br>
 
 * [Take U forward (Best DSA content)](https://www.youtube.com/@takeUforward)
 * [Siraj Raval - For AI](https://www.youtube.com/@SirajRaval/featured)
@@ -155,10 +149,24 @@
 * [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
 * [Career With Gaurav](https://www.youtube.com/@careerwithgaurav)
 * [CS Dojo](https://www.youtube.com/@CSDojo)
-<br>
 
-# Helpful Notion Templates with Learning Resources
+# Helpful Notion Templates with Learning Resources<br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
 * [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
 * [140+ Coding certificates](https://madzadev.notion.site/140-Coding-Certificates-71d5c0d70e1148a194eae80d82c976f0)
+* [Web dev resources](https://www.notion.so/ashcode98/WEB-DEV-RESOURCES-c5350364ca8c4345b4b5f77271f18f94?pvs=4)
+* [50+ Tools for Web Developers](https://www.notion.so/ashcode98/50-Awesome-Tools-for-Web-Developers-5d2ede5b379848d896004e82ce110c10?pvs=4)
+
+# Find various cheat-sheets for various programming languages and frameworks<br>
+
+→ [devhints.io](http://devhints.io/)
+→ [gitsheet.wtf](https://gitsheet.wtf/)
+→ [overapi.com](http://overapi.com/)
+→ [grid.malven.co](http://grid.malven.co/)
+→ [htmlreference.io](http://htmlreference.io/)
+→ [cheat-sheets.org](http://cheat-sheets.org/)
+→ [cheatography.com](http://cheatography.com/)
+→ [htmlcheatsheet.com](http://htmlcheatsheet.com/)
+→ [codehouse.vercel.app](https://codehouse.vercel.app/)
+→ [developer-cheatsheets.com](http://developer-cheatsheets.com/)
