@@ -1,7 +1,6 @@
 # BEST_REPOSITORY_FOR_ME_TO_LEARN_ANYTHING
 
-Best Coding Platforms to practice your skills
-
+1. Best Coding Platforms to practice your skills<br><br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -34,9 +33,7 @@ Best Coding Platforms to practice your skills
 * Roadmap.sh(All the roadmaps): https://roadmap.sh/
 
 
-
-<br>Good Resources for Competitive Programming<br>
-
+<br>2. Good Resources for Competitive Programming<br><br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
 * CSES Problem Set: https://cses.fi/problemset/
@@ -55,10 +52,7 @@ Best Coding Platforms to practice your skills
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
 
 
-
-<br>Good Resources for Data Structures and Algorithms<br>
-
-
+<br>3. Good Resources for Data Structures and Algorithms<br><br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 * Striver’s SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
@@ -74,10 +68,7 @@ Best Coding Platforms to practice your skills
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
 
 
-
-<br>Learn CSS by playing games<br>
-
-
+<br>4. Learn CSS by playing games<br><br>
 
 * [Flexbox Froggy](https://flexboxfroggy.com)
 * [Flexbox Defense](https://flexboxdefense.com)
@@ -88,3 +79,9 @@ Best Coding Platforms to practice your skills
 * [CSS Speedrun](https://css-speedrun.netlify.app)
 * [Codepip](https://codepip.com)
 
+
+<br>5. Improve your typing speed<br><br>
+
+* TypeRacer: https://play.typeracer.com/
+* MonkeyType: https://monkeytype.com/
+* Keymash: https://keymash.io/

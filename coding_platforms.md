@@ -1,4 +1,4 @@
-Best Coding Platforms to practice your skills
+-> Best Coding Platforms to practice your skills
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
