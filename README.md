@@ -212,3 +212,7 @@
 * 📉 [rxresu.me](http://rxresu.me/)
 * 🖥 [visualcv.com](http://visualcv.com/)
 * 📄 [zety.com](http://zety.com/)
+
+<h1>Find books related to computer science and it</h1><br>
+
+* [it-books](http://it-ebooks.info/)
