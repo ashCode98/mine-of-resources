@@ -31,6 +31,8 @@
 * StudyTonight: https://www.studytonight.com/
 * MDN Web Docs(best for Development): https://developer.mozilla.org/en-US/
 * Roadmap.sh(All the roadmaps): https://roadmap.sh/
+* Replit: https://replit.com/
+* Codepen: https://codepen.io/
 
 
 <br>2. Good Resources for Competitive Programming<br><br>
@@ -70,14 +72,14 @@
 
 <br>4. Learn CSS by playing games<br><br>
 
-* [Flexbox Froggy](https://flexboxfroggy.com)
-* [Flexbox Defense](https://flexboxdefense.com)
-* [CSS Grid Garden](https://cssgridgarden.com)
-* [FlukeOut](https://flukeout.github.io)
-* [CSS Battle](https://cssbattle.dev)
-* [Guess CSS](https://guess-css.app)
-* [CSS Speedrun](https://css-speedrun.netlify.app)
-* [Codepip](https://codepip.com)
+* Flexbox Froggy: https://flexboxfroggy.com
+* Flexbox Defense: https://flexboxdefense.com
+* CSS Grid Garden: https://cssgridgarden.com 
+* FlukeOut: https://flukeout.github.io
+* CSS Battle: https://cssbattle.dev
+* Guess CSS: https://guess-css.app
+* CSS Speedrun: https://css-speedrun.netlify.app
+* Codepip: https://codepip.com
 
 
 <br>5. Improve your typing speed<br><br>
@@ -85,3 +87,20 @@
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
 * Keymash: https://keymash.io/
+
+
+<br>6. Tools and softwares which can help you to stay productive and focused<br><br>
+
+* Pomodoro Timer(Manage your time): https://pomofocus.io/
+* GoogleDrive(cloud storage): https://www.google.com/drive/
+* Stackoverflow(Find bug solutions): https://stackoverflow.com/
+* Vim(Command-line only Code editor): https://www.vim.org/
+* Sublime Text(Lightweight Code editor): https://www.sublimetext.com/
+* Visual Studio Code(Best Code editor): https://code.visualstudio.com/
+* Major League Hacking: https://mlh.io/
+* Devswag(Get swags and goodies): https://devswag.io/
+
+
+<br>7. Various AI Tools<br><br>
+
+![](Productive_AI_apps.webp)

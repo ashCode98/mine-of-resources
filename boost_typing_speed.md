@@ -1,4 +1,4 @@
--> Improve your typing speed
+Improve your typing speed
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
