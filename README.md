@@ -1,6 +1,6 @@
 # BEST_REPOSITORY_FOR_ME_TO_LEARN_ANYTHING
 
-# Best Coding Platforms to practice your skills<br>
+<h1>Best Coding Platforms to practice your skills</h1><br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -34,7 +34,7 @@
 * Replit: https://replit.com/
 * Codepen: https://codepen.io/
 
-# Good Resources for Competitive Programming<br>
+<h1>Good Resources for Competitive Programming</h1><br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
 * CSES Problem Set: https://cses.fi/problemset/
@@ -52,7 +52,7 @@
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
 
-# Good Resources for Data Structures and Algorithms<br>
+<h1>Good Resources for Data Structures and Algorithms</h1><br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 * Striver’s SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
@@ -67,7 +67,7 @@
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
 
-# Learn CSS by playing games<br>
+<h1>Learn CSS by playing games</h1><br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
 * Flexbox Defense: https://flexboxdefense.com
@@ -78,13 +78,13 @@
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
 
-# Improve your typing speed<br>
+<h1>Improve your typing speed</h1><br>
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
 * Keymash: https://keymash.io/
 
-# Tools and softwares which can help you to stay productive and focused<br>
+<h1>Tools and softwares which can help you to stay productive and focused</h1><br>
 
 * Pomodoro Timer(Manage your time): https://pomofocus.io/
 * GoogleDrive(cloud storage): https://www.google.com/drive/
@@ -95,12 +95,12 @@
 * Major League Hacking: https://mlh.io/
 * Devswag(Get swags and goodies): https://devswag.io/
 
-# Various AI Tools<br>
+<h1>Various AI Tools</h1><br>
 
 ![](Productive_AI_apps.webp)
 *[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
-# Best YouTube Channels for Learning<br>
+<h1>Best YouTube Channels for Learning</h1><br>
 
 * [Take U forward (Best DSA content)](https://www.youtube.com/@takeUforward)
 * [Siraj Raval - For AI](https://www.youtube.com/@SirajRaval/featured)
@@ -150,7 +150,7 @@
 * [Career With Gaurav](https://www.youtube.com/@careerwithgaurav)
 * [CS Dojo](https://www.youtube.com/@CSDojo)
 
-# Helpful Notion Templates with Learning Resources<br>
+<h1>Helpful Notion Templates with Learning Resources</h1><br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
 * [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
@@ -158,7 +158,7 @@
 * [Web dev resources](https://www.notion.so/ashcode98/WEB-DEV-RESOURCES-c5350364ca8c4345b4b5f77271f18f94?pvs=4)
 * [50+ Tools for Web Developers](https://www.notion.so/ashcode98/50-Awesome-Tools-for-Web-Developers-5d2ede5b379848d896004e82ce110c10?pvs=4)
 
-# Find various cheat-sheets for various programming languages and frameworks<br>
+<h1>Find various cheat-sheets for various programming languages and frameworks</h1><br>
 
 → [devhints.io](http://devhints.io/)
 → [gitsheet.wtf](https://gitsheet.wtf/)
