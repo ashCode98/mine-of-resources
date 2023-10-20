@@ -160,13 +160,33 @@
 
 <h1>Find various cheat-sheets for various programming languages and frameworks</h1><br>
 
-→ [devhints.io](http://devhints.io/)
-→ [gitsheet.wtf](https://gitsheet.wtf/)
-→ [overapi.com](http://overapi.com/)
-→ [grid.malven.co](http://grid.malven.co/)
-→ [htmlreference.io](http://htmlreference.io/)
-→ [cheat-sheets.org](http://cheat-sheets.org/)
-→ [cheatography.com](http://cheatography.com/)
-→ [htmlcheatsheet.com](http://htmlcheatsheet.com/)
-→ [codehouse.vercel.app](https://codehouse.vercel.app/)
-→ [developer-cheatsheets.com](http://developer-cheatsheets.com/)
+* [devhints.io](http://devhints.io/)
+* [gitsheet.wtf](https://gitsheet.wtf/)
+* [overapi.com](http://overapi.com/)
+* [grid.malven.co](http://grid.malven.co/)
+* [htmlreference.io](http://htmlreference.io/)
+* [cheat-sheets.org](http://cheat-sheets.org/)
+* [cheatography.com](http://cheatography.com/)
+* [htmlcheatsheet.com](http://htmlcheatsheet.com/)
+* [codehouse.vercel.app](https://codehouse.vercel.app/)
+* [developer-cheatsheets.com](http://developer-cheatsheets.com/)
+
+<h1>Free website hosting sites</h1><br>
+
+* InfinityFree: https://infinityfree.net
+* FreeHosting: https://freehosting.com
+* ByetHost: https://byet.host
+* HyperPHP: http://hyperphp.com
+* FreeWebHostingArea: https://freewebhostingarea.com
+* Cwahi: http://cwahi.com
+* 110MB: http://110mb.com
+* Ripway: http://ripway.com
+* SuperFreeHost: http://superfreehost.info
+* FreeHostia: http://freehostia.com
+* FreeWeb7: http://freeweb7.com
+* T35: http://t35.com
+* AwardSpace: http://awardspace.com
+* PHPNET: http://phpnet.us
+* FreeWebHostingPro: http://freewebhostingpro.com
+* ProHosts: http://prohosts.org
+* FreeZoka: http://freezoka.com

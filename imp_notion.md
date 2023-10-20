@@ -1,0 +1,5 @@
+* [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
+* [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
+* [140+ Coding certificates](https://madzadev.notion.site/140-Coding-Certificates-71d5c0d70e1148a194eae80d82c976f0)
+* [Web dev resources](https://www.notion.so/ashcode98/WEB-DEV-RESOURCES-c5350364ca8c4345b4b5f77271f18f94?pvs=4)
+* [50+ Tools for Web Developers](https://www.notion.so/ashcode98/50-Awesome-Tools-for-Web-Developers-5d2ede5b379848d896004e82ce110c10?pvs=4)
