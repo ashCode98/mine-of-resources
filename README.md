@@ -98,7 +98,7 @@
 <h1>Various AI Tools</h1><br>
 
 ![](Productive_AI_apps.webp)
-*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
+<br><br>*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
 <h1>Best YouTube Channels for Learning</h1><br>
 
@@ -170,6 +170,7 @@
 * [htmlcheatsheet.com](http://htmlcheatsheet.com/)
 * [codehouse.vercel.app](https://codehouse.vercel.app/)
 * [developer-cheatsheets.com](http://developer-cheatsheets.com/)
+* [All-cheat-sheet.org](https://cheat-sheets.org/)
 
 <h1>Free website hosting sites</h1><br>
 
@@ -193,21 +194,21 @@
 
 <h1>Build Your resume</h1><br>
 
-💼 [cvmkr.com](http://cvmkr.com/)
-🎨 [enhancv.com](http://enhancv.com/)
-📑 [flowcv.io](http://flowcv.io/)
-🔍 [indeed.com/create-resume](http://indeed.com/create-resume)
-🔍 [jobscan.co/resume-builder](http://jobscan.co/resume-builder)
-📄 [kickresume.com](http://kickresume.com/)
-📊 [livecareer.com](http://livecareer.com/)
-📈 [myperfectresume.com](http://myperfectresume.com/)
-🧩 [novoresume.com](http://novoresume.com/)
-🤝 [resumecompanion.com](http://resumecompanion.com/)
-🌟 [resumegenius.com](http://resumegenius.com/)
-📝 [resume.io](http://resume.io/)
-📈 [resumelab.com/in](http://resumelab.com/in)
-📚 [resumenerd.com](http://resumenerd.com/)
-📝 [resumonk.com](http://resumonk.com/)
-📉 [rxresu.me](http://rxresu.me/)
-🖥 [visualcv.com](http://visualcv.com/)
-📄 [zety.com](http://zety.com/)
+* 💼 [cvmkr.com](http://cvmkr.com/)
+* 🎨 [enhancv.com](http://enhancv.com/)
+* 📑 [flowcv.io](http://flowcv.io/)
+* 🔍 [indeed.com/create-resume](http://indeed.com/create-resume)
+* 🔍 [jobscan.co/resume-builder](http://jobscan.co/resume-builder)
+* 📄 [kickresume.com](http://kickresume.com/)
+* 📊 [livecareer.com](http://livecareer.com/)
+* 📈 [myperfectresume.com](http://myperfectresume.com/)
+* 🧩 [novoresume.com](http://novoresume.com/)
+* 🤝 [resumecompanion.com](http://resumecompanion.com/)
+* 🌟 [resumegenius.com](http://resumegenius.com/)
+* 📝 [resume.io](http://resume.io/)
+* 📈 [resumelab.com/in](http://resumelab.com/in)
+* 📚 [resumenerd.com](http://resumenerd.com/)
+* 📝 [resumonk.com](http://resumonk.com/)
+* 📉 [rxresu.me](http://rxresu.me/)
+* 🖥 [visualcv.com](http://visualcv.com/)
+* 📄 [zety.com](http://zety.com/)
