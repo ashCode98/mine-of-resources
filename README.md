@@ -153,13 +153,17 @@
 * [Career With Gaurav](https://www.youtube.com/@careerwithgaurav)
 * [CS Dojo](https://www.youtube.com/@CSDojo)
 
-<h1>Helpful Notion Templates with Learning Resources</h1><br>
+<h1>Notion Templates with Learning Resources</h1><br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
 * [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
 * [140+ Coding certificates](https://madzadev.notion.site/140-Coding-Certificates-71d5c0d70e1148a194eae80d82c976f0)
 * [Web dev resources](https://www.notion.so/ashcode98/WEB-DEV-RESOURCES-c5350364ca8c4345b4b5f77271f18f94?pvs=4)
 * [50+ Tools for Web Developers](https://www.notion.so/ashcode98/50-Awesome-Tools-for-Web-Developers-5d2ede5b379848d896004e82ce110c10?pvs=4)
+* [HTML/CSS Goldmine](https://horse-learning-8df.notion.site/HTML-CSS-Goldmine-The-Ultimate-Resource-Hand-Book-465b0751ec4644fea545a75b979cb6ff)
+* [JavaScript Unleashed - Handbook](https://horse-learning-8df.notion.site/JavaScript-Unleashed-The-Ultimate-Resource-Handbook-ba60dfd4b98e4ff7a45635c3bea20850)
+* [React Unleashed - Handbook](https://horse-learning-8df.notion.site/React-Unleashed-The-Ultimate-Resource-Hand-Book-661f9a23206441e983cac167494b6a40)
+* [Web dev resources - 2.0](https://www.notion.so/ashcode98/Web-dev-resources-public-e8d96efb2ef541f6b9ca1fe787bbd476?pvs=4)
 
 <h1>Find various cheat-sheets for various programming languages and frameworks</h1><br>
 
