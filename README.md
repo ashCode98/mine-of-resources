@@ -256,6 +256,44 @@
 * Great Learning: https://www.mygreatlearning.com/academy
 * Learn Vern: https://www.learnvern.com/
 
+<h1>My collection of GitHub Repositories</h1><br>
+
+1. The Algorithms :- [https://lnkd.in/dydHTEaP](https://lnkd.in/dydHTEaP)
+2. FreeCodeCamp:- [https://lnkd.in/dBRbr6Wz](https://lnkd.in/dBRbr6Wz)
+3. Free Programming Books :- [https://lnkd.in/dKm2mgNN](https://lnkd.in/dKm2mgNN)
+4. 100 Days of ML Code :- [https://lnkd.in/dzj-MN5p](https://lnkd.in/dzj-MN5p)
+5. Product Based Learning :- [https://lnkd.in/d4B_3tms](https://lnkd.in/d4B_3tms)
+6. Public APIs :- [https://lnkd.in/dY58xtGz](https://lnkd.in/dY58xtGz)
+7. Coding Interview University :- [https://lnkd.in/dchNDcET](https://lnkd.in/dchNDcET)
+8. Developer RoadMap :- [https://lnkd.in/d3UzUBQa](https://lnkd.in/d3UzUBQa)
+9. Computer Science :- [https://lnkd.in/d6FHYQ8M](https://lnkd.in/d6FHYQ8M)
+10. 30 Seconds of Code :- [https://lnkd.in/dWpwpBHM](https://lnkd.in/dWpwpBHM)
+11. Awesome Python :- [https://lnkd.in/d9Td9mKb](https://lnkd.in/d9Td9mKb)
+12. You Don't Know JS :- [https://lnkd.in/dmrzZ_SA](https://lnkd.in/dmrzZ_SA)
+13. HTML, CSS, and JavaScript framework :- [https://lnkd.in/deedpQSG](https://lnkd.in/deedpQSG)
+14. TensorFlow :- [https://lnkd.in/dVku4kfN](https://lnkd.in/dVku4kfN)
+15. Keyboard Shortcuts :- [https://lnkd.in/dq9VHCyM](https://lnkd.in/dq9VHCyM)
+16. Build your own X :- [https://lnkd.in/dafvTq8R](https://lnkd.in/dafvTq8R)
+17. Design Resources for Developers :-[https://lnkd.in/d-XNjxxA](https://lnkd.in/d-XNjxxA)
+18. App Ideas :- [https://lnkd.in/dG42-p5s](https://lnkd.in/dG42-p5s)
+19. GitIgnore :- [https://lnkd.in/dM6uERnv](https://lnkd.in/dM6uERnv)
+20. The Art of Command Line :- [https://lnkd.in/dM8YiX_c](https://lnkd.in/dM8YiX_c)
+21. Tech Interview Handbook :- [https://lnkd.in/dQwMM9yu](https://lnkd.in/dQwMM9yu)
+22. Project Guild lines:- [https://lnkd.in/dRe2c6Xs](https://lnkd.in/dRe2c6Xs)
+23. Javascript Algorithm :- [https://lnkd.in/dhy2rpjc](https://lnkd.in/dhy2rpjc)
+24. Effective Engineer :- [https://lnkd.in/dcZMrV8N](https://lnkd.in/dcZMrV8N)
+25. Beautiful Docs :- [https://lnkd.in/def2WB7R](https://lnkd.in/def2WB7R)
+26. Complete Python Bootcamp:- [https://lnkd.in/da3qd2pG](https://lnkd.in/da3qd2pG)
+27. The Book of Secret Knowledge :- [https://lnkd.in/dSvTMnyf](https://lnkd.in/dSvTMnyf)
+28. Awesome cheatsheets for popular programming languages, frameworks and development tools :- [https://lnkd.in/d3B65Ksg](https://lnkd.in/d3B65Ksg)
+29. List of funny and tricky JavaScript examples :- [https://lnkd.in/dQAPP7QU](https://lnkd.in/dQAPP7QU)
+30. Big List of Naughty Strings :- [https://lnkd.in/d9sXakkR](https://lnkd.in/d9sXakkR)
+31. Node.js best practices :-[https://lnkd.in/dJ8wFw4S](https://lnkd.in/dJ8wFw4S)
+32. The mother of all demo apps :- [https://lnkd.in/dpEZcgix](https://lnkd.in/dpEZcgix)
+33. Javascript Questions :- [https://lnkd.in/d9NYQp8v](https://lnkd.in/d9NYQp8v)
+34. Front-end Checklist:- [https://lnkd.in/dhrzhNij](https://lnkd.in/dhrzhNij)
+35. You Don't Need :- [https://lnkd.in/dJjzGErP](https://lnkd.in/dJjzGErP)
+
 <h1>miscellaneous</h1><br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
