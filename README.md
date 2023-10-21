@@ -258,41 +258,41 @@
 
 <h1>My collection of GitHub Repositories</h1><br>
 
-1. The Algorithms :- [https://lnkd.in/dydHTEaP](https://lnkd.in/dydHTEaP)
-2. FreeCodeCamp:- [https://lnkd.in/dBRbr6Wz](https://lnkd.in/dBRbr6Wz)
-3. Free Programming Books :- [https://lnkd.in/dKm2mgNN](https://lnkd.in/dKm2mgNN)
-4. 100 Days of ML Code :- [https://lnkd.in/dzj-MN5p](https://lnkd.in/dzj-MN5p)
-5. Product Based Learning :- [https://lnkd.in/d4B_3tms](https://lnkd.in/d4B_3tms)
-6. Public APIs :- [https://lnkd.in/dY58xtGz](https://lnkd.in/dY58xtGz)
-7. Coding Interview University :- [https://lnkd.in/dchNDcET](https://lnkd.in/dchNDcET)
-8. Developer RoadMap :- [https://lnkd.in/d3UzUBQa](https://lnkd.in/d3UzUBQa)
-9. Computer Science :- [https://lnkd.in/d6FHYQ8M](https://lnkd.in/d6FHYQ8M)
-10. 30 Seconds of Code :- [https://lnkd.in/dWpwpBHM](https://lnkd.in/dWpwpBHM)
-11. Awesome Python :- [https://lnkd.in/d9Td9mKb](https://lnkd.in/d9Td9mKb)
-12. You Don't Know JS :- [https://lnkd.in/dmrzZ_SA](https://lnkd.in/dmrzZ_SA)
-13. HTML, CSS, and JavaScript framework :- [https://lnkd.in/deedpQSG](https://lnkd.in/deedpQSG)
-14. TensorFlow :- [https://lnkd.in/dVku4kfN](https://lnkd.in/dVku4kfN)
-15. Keyboard Shortcuts :- [https://lnkd.in/dq9VHCyM](https://lnkd.in/dq9VHCyM)
-16. Build your own X :- [https://lnkd.in/dafvTq8R](https://lnkd.in/dafvTq8R)
-17. Design Resources for Developers :-[https://lnkd.in/d-XNjxxA](https://lnkd.in/d-XNjxxA)
-18. App Ideas :- [https://lnkd.in/dG42-p5s](https://lnkd.in/dG42-p5s)
-19. GitIgnore :- [https://lnkd.in/dM6uERnv](https://lnkd.in/dM6uERnv)
-20. The Art of Command Line :- [https://lnkd.in/dM8YiX_c](https://lnkd.in/dM8YiX_c)
-21. Tech Interview Handbook :- [https://lnkd.in/dQwMM9yu](https://lnkd.in/dQwMM9yu)
-22. Project Guild lines:- [https://lnkd.in/dRe2c6Xs](https://lnkd.in/dRe2c6Xs)
-23. Javascript Algorithm :- [https://lnkd.in/dhy2rpjc](https://lnkd.in/dhy2rpjc)
-24. Effective Engineer :- [https://lnkd.in/dcZMrV8N](https://lnkd.in/dcZMrV8N)
-25. Beautiful Docs :- [https://lnkd.in/def2WB7R](https://lnkd.in/def2WB7R)
-26. Complete Python Bootcamp:- [https://lnkd.in/da3qd2pG](https://lnkd.in/da3qd2pG)
-27. The Book of Secret Knowledge :- [https://lnkd.in/dSvTMnyf](https://lnkd.in/dSvTMnyf)
-28. Awesome cheatsheets for popular programming languages, frameworks and development tools :- [https://lnkd.in/d3B65Ksg](https://lnkd.in/d3B65Ksg)
-29. List of funny and tricky JavaScript examples :- [https://lnkd.in/dQAPP7QU](https://lnkd.in/dQAPP7QU)
-30. Big List of Naughty Strings :- [https://lnkd.in/d9sXakkR](https://lnkd.in/d9sXakkR)
-31. Node.js best practices :-[https://lnkd.in/dJ8wFw4S](https://lnkd.in/dJ8wFw4S)
-32. The mother of all demo apps :- [https://lnkd.in/dpEZcgix](https://lnkd.in/dpEZcgix)
-33. Javascript Questions :- [https://lnkd.in/d9NYQp8v](https://lnkd.in/d9NYQp8v)
-34. Front-end Checklist:- [https://lnkd.in/dhrzhNij](https://lnkd.in/dhrzhNij)
-35. You Don't Need :- [https://lnkd.in/dJjzGErP](https://lnkd.in/dJjzGErP)
+* The Algorithms: https://github.com/TheAlgorithms
+* FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
+* Free Programming Books: https://github.com/EbookFoundation/free-programming-books
+* 100 Days of ML Code: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* Product Based Learning: https://github.com/practical-tutorials/project-based-learning
+* Public APIs: https://github.com/public-apis/public-apis
+* Coding Interview University: https://github.com/jwasham/coding-interview-university
+* Developer RoadMap: https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md
+* Computer Science: https://github.com/ossu/computer-science
+* 30 Seconds of Code: https://github.com/30-seconds
+* Awesome Python: https://github.com/vinta/awesome-python
+* You Don't Know JS: https://github.com/jumaschion/You-Dont-Know-JS-1
+* Bootstrap: https://github.com/twbs/bootstrap
+* TensorFlow: https://github.com/tensorflow/tensorflow
+* Keyboard Shortcuts: https://github.com/sindresorhus/KeyboardShortcuts/releases
+* Build your own X: https://github.com/codecrafters-io/build-your-own-x
+* Design Resources for Developers: https://github.com/bradtraversy/design-resources-for-developers
+* App Ideas: https://github.com/florinpop17/app-ideas
+* GitIgnore: https://github.com/github/gitignore
+* The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
+* Tech Interview Handbook: https://github.com/yangshun/tech-interview-handbook
+* Project Guild lines: https://github.com/elsewhencode/project-guidelines
+* Javascript Algorithm: https://github.com/trekhleb/javascript-algorithms
+* Effective Engineer: https://gist.github.com/
+* Beautiful Docs: https://github.com/matheusfelipeog/beautiful-docs
+* Complete Python Bootcamp: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+* The Book of Secret Knowledge: https://github.com/trimstray/the-book-of-secret-knowledge
+* Awesome cheatsheets for programming languages, frameworks and dev tools: https://github.com/LeCoupa/awesome-cheatsheets
+* List of funny and tricky JavaScript examples: https://github.com/denysdovhan/dotfiles
+* Big List of Naughty Strings: https://github.com/minimaxir/big-list-of-naughty-strings
+* Node.js best practices: https://github.com/goldbergyoni/nodebestpractices
+* The mother of all demo apps: https://github.com/gothinkster/realworld
+* Javascript Questions: https://github.com/lydiahallie/javascript-questions
+* Front-end Checklist: https://github.com/thedaviddias/Front-End-Checklist
+* You Don't Need: https://github.com/you-dont-need
 
 <h1>miscellaneous</h1><br>
 
