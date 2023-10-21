@@ -95,6 +95,9 @@
 * Major League Hacking: https://mlh.io/
 * Devswag(Get swags and goodies): https://devswag.io/
 
+* 92+ Productivity Tools:- 
+![](92Tools.jpg)
+
 <h1>Various AI Tools</h1><br>
 
 ![](Productive_AI_apps.webp)
@@ -217,11 +220,6 @@
 
 * [it-books](http://it-ebooks.info/)
 
-<h1>miscellaneous</h1><br>
-
-* [Learn X in Y minutes](https://learnxinyminutes.com/)
-* [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
-
 <h1>Find various courses</h1><br>
 
 * Hacksnation: https://hacksnation.com.atlaq.com/
@@ -253,3 +251,8 @@
 * Real.discount: https://www.real.discount/
 * Great Learning: https://www.mygreatlearning.com/academy
 * Learn Vern: https://www.learnvern.com/
+
+<h1>miscellaneous</h1><br>
+
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
+* [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
