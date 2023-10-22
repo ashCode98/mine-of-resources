@@ -1,6 +1,6 @@
-# Let's learn something new
+# Be a good Engineer
 
-- [Let's learn something new](#lets-learn-something-new)
+- [Be a good Engineer](#be-a-good-engineer)
   - [Best Coding Platforms to practice your skills](#best-coding-platforms-to-practice-your-skills)
   - [Good Resources for Competitive Programming ](#good-resources-for-competitive-programming-)
   - [for Data Structures and Algorithms ](#for-data-structures-and-algorithms-)
@@ -320,3 +320,4 @@
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
 * [120+ Websites to learn code](https://mikkegoes.com/learn-to-code-for-free/)
+* [learn how multiprocessing(CPU) works](https://cpu.land/)
