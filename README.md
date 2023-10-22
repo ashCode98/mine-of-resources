@@ -335,7 +335,6 @@
 * Beautiful Docs: https://github.com/matheusfelipeog/beautiful-docs
 * Complete Python Bootcamp: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 * The Book of Secret Knowledge: https://github.com/trimstray/the-book-of-secret-knowledge
-* Awesome cheatsheets for programming languages, frameworks and dev tools: https://github.com/LeCoupa/awesome-cheatsheets
 * List of funny and tricky JavaScript examples: https://github.com/denysdovhan/dotfiles
 * Big List of Naughty Strings: https://github.com/minimaxir/big-list-of-naughty-strings
 * Node.js best practices: https://github.com/goldbergyoni/nodebestpractices
