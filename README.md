@@ -73,6 +73,7 @@
 * Luv - Good CP Series: https://www.youtube.com/@iamluv/featured
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
+* Best GitHub Repo for CP: https://github.com/ashCode98/awesome-competitive-programming
 
 <hr>
 
@@ -309,6 +310,10 @@
 ## Large collection of my favorite GitHub Repositories <br>
 
 * All Awesome Lists: https://github.com/ashCode98/awesome-lists
+* Lot's of resources: https://github.com/unicodeveloper/resources-i-like
+* Another resources: https://github.com/ashCode98/learning-resources
+* Learning Resouces by Codechef: https://github.com/ashCode98/codechefLearning
+* A collection of good repos: https://github.com/ashCode98/awesome-github-repo
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
 * Free Programming Books: https://github.com/EbookFoundation/free-programming-books
@@ -355,6 +360,9 @@
 * how-web-works: https://github.com/vasanthk/how-web-works
 * Effective Engineer: https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8
 * frontend-dev-bookmarks: https://github.com/akikoo/frontend-dev-bookmarks
+* ossu-computer-science-progress: https://github.com/ashCode98/ossu-computer-science-progress
+* Awesome-competitive-programming: https://github.com/ashCode98/awesome-competitive-programming
+* Awesome-software-engineering: https://github.com/Alliedium/awesome-software-engineering
 
 <hr>
 
