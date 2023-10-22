@@ -1,6 +1,24 @@
-# BEST_REPOSITORY_FOR_ME_TO_LEARN_ANYTHING
+# Let's learn something new
 
-<h1>Best Coding Platforms to practice your skills</h1><br>
+- [Let's learn something new](#lets-learn-something-new)
+  - [Best Coding Platforms to practice your skills](#best-coding-platforms-to-practice-your-skills)
+  - [Good Resources for Competitive Programming ](#good-resources-for-competitive-programming-)
+  - [for Data Structures and Algorithms ](#for-data-structures-and-algorithms-)
+  - [Learn CSS by playing games ](#learn-css-by-playing-games-)
+  - [Improve your typing speed ](#improve-your-typing-speed-)
+  - [Tools and softwares which can help you to stay productive and focused ](#tools-and-softwares-which-can-help-you-to-stay-productive-and-focused-)
+  - [Various AI Tools ](#various-ai-tools-)
+  - [Best YouTube Channels for Learning ](#best-youtube-channels-for-learning-)
+  - [Notion Templates with Learning Resources ](#notion-templates-with-learning-resources-)
+  - [Find various cheat-sheets for various programming languages and frameworks ](#find-various-cheat-sheets-for-various-programming-languages-and-frameworks-)
+  - [Free website hosting sites ](#free-website-hosting-sites-)
+  - [Build Your resume ](#build-your-resume-)
+  - [Find books related to computer science and it ](#find-books-related-to-computer-science-and-it-)
+  - [Find various courses ](#find-various-courses-)
+  - [My collection of GitHub Repositories ](#my-collection-of-github-repositories-)
+  - [miscellaneous ](#miscellaneous-)
+
+## Best Coding Platforms to practice your skills<br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -35,7 +53,7 @@
 * Codepen: https://codepen.io/
 * Code Conquest: https://www.codeconquest.com/
 
-<h1>Good Resources for Competitive Programming</h1><br>
+## Good Resources for Competitive Programming <br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
 * CSES Problem Set: https://cses.fi/problemset/
@@ -53,7 +71,7 @@
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
 
-<h1>Good Resources for Data Structures and Algorithms</h1><br>
+## for Data Structures and Algorithms <br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 * Striver’s SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
@@ -68,7 +86,7 @@
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
 
-<h1>Learn CSS by playing games</h1><br>
+## Learn CSS by playing games <br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
 * Flexbox Defense: https://flexboxdefense.com
@@ -79,13 +97,13 @@
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
 
-<h1>Improve your typing speed</h1><br>
+## Improve your typing speed <br>
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
 * Keymash: https://keymash.io/
 
-<h1>Tools and softwares which can help you to stay productive and focused</h1><br>
+## Tools and softwares which can help you to stay productive and focused <br>
 
 * Pomodoro Timer(Manage your time): https://pomofocus.io/
 * GoogleDrive(cloud storage): https://www.google.com/drive/
@@ -99,12 +117,12 @@
 * 92+ Productivity Tools:- 
 ![](92Tools.jpg)
 
-<h1>Various AI Tools</h1><br>
+## Various AI Tools <br>
 
 ![](Productive_AI_apps.webp)
 <br><br>*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
-<h1>Best YouTube Channels for Learning</h1><br>
+## Best YouTube Channels for Learning <br>
 
 * [Take U forward (Best DSA content)](https://www.youtube.com/@takeUforward)
 * [Siraj Raval - For AI](https://www.youtube.com/@SirajRaval/featured)
@@ -154,7 +172,7 @@
 * [Career With Gaurav](https://www.youtube.com/@careerwithgaurav)
 * [CS Dojo](https://www.youtube.com/@CSDojo)
 
-<h1>Notion Templates with Learning Resources</h1><br>
+## Notion Templates with Learning Resources <br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
 * [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
@@ -166,7 +184,7 @@
 * [React Unleashed - Handbook](https://horse-learning-8df.notion.site/React-Unleashed-The-Ultimate-Resource-Hand-Book-661f9a23206441e983cac167494b6a40)
 * [Web dev resources - 2.0](https://www.notion.so/ashcode98/Web-dev-resources-public-e8d96efb2ef541f6b9ca1fe787bbd476?pvs=4)
 
-<h1>Find various cheat-sheets for various programming languages and frameworks</h1><br>
+## Find various cheat-sheets for various programming languages and frameworks <br>
 
 * [devhints.io](http://devhints.io/)
 * [gitsheet.wtf](https://gitsheet.wtf/)
@@ -180,7 +198,7 @@
 * [developer-cheatsheets.com](http://developer-cheatsheets.com/)
 * [All-cheat-sheet.org](https://cheat-sheets.org/)
 
-<h1>Free website hosting sites</h1><br>
+## Free website hosting sites <br>
 
 * InfinityFree: https://infinityfree.net
 * FreeHosting: https://freehosting.com
@@ -200,7 +218,7 @@
 * ProHosts: http://prohosts.org
 * FreeZoka: http://freezoka.com
 
-<h1>Build Your resume</h1><br>
+## Build Your resume <br>
 
 * 💼 [cvmkr.com](http://cvmkr.com/)
 * 🎨 [enhancv.com](http://enhancv.com/)
@@ -221,11 +239,11 @@
 * 🖥 [visualcv.com](http://visualcv.com/)
 * 📄 [zety.com](http://zety.com/)
 
-<h1>Find books related to computer science and it</h1><br>
+## Find books related to computer science and it <br>
 
 * [it-books](http://it-ebooks.info/)
 
-<h1>Find various courses</h1><br>
+## Find various courses <br>
 
 * Hacksnation: https://hacksnation.com.atlaq.com/
 * Educative.io: https://www.educative.io/
@@ -258,7 +276,7 @@
 * Learn Vern: https://www.learnvern.com/
 * The Odin Project: https://www.theodinproject.com/
 
-<h1>My collection of GitHub Repositories</h1><br>
+## My collection of GitHub Repositories <br>
 
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
@@ -297,7 +315,7 @@
 * You Don't Need: https://github.com/you-dont-need
 * DSA
 
-<h1>miscellaneous</h1><br>
+## miscellaneous <br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
