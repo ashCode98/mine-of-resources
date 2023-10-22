@@ -308,6 +308,7 @@
 
 ## Large collection of my favorite GitHub Repositories <br>
 
+* All Awesome Lists: https://github.com/ashCode98/awesome-lists
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
 * Free Programming Books: https://github.com/EbookFoundation/free-programming-books
@@ -318,7 +319,6 @@
 * Developer RoadMap: https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md
 * Computer Science: https://github.com/ossu/computer-science
 * 30 Seconds of Code: https://github.com/30-seconds
-* Awesome Python: https://github.com/vinta/awesome-python
 * You Don't Know JS: https://github.com/jumaschion/You-Dont-Know-JS-1
 * Bootstrap: https://github.com/twbs/bootstrap
 * TensorFlow: https://github.com/tensorflow/tensorflow
@@ -346,18 +346,16 @@
 * HTML5 interview questions: https://github.com/Devinterview-io/html5-interview-questions
 * html-basics: https://github.com/learning-zone/html-basics
 * css-pro Tips: https://github.com/AllThingsSmitty/css-protips
-* Awesome Css learning: https://github.com/micromata/awesome-css-learning
 * Css interview questions: https://github.com/Devinterview-io/css-interview-questions
 * Front-End-Checklist: https://github.com/thedaviddias/Front-End-Checklist
 * spellbook-of-modern-webdev: https://github.com/dexteryy/spellbook-of-modern-webdev
 * javascript-interview-questions: https://github.com/lydiahallie/javascript-questions
-* Awesome-javascript: https://github.com/sorrycc/awesome-javascript
-* Awesome-react: https://github.com/enaqx/awesome-react
-* Awesome-nodejs: https://github.com/sindresorhus/awesome-nodejs
 * Awesome-Algorithms: https://github.com/tayllan/awesome-algorithms 
 * The-Complete-FAANG-Preparation: https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
 * DSA bootcamp by kunal kushwaha: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 * how-web-works: https://github.com/vasanthk/how-web-works
+* Effective Engineer: https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8
+* frontend-dev-bookmarks: https://github.com/akikoo/frontend-dev-bookmarks
 
 <hr>
 
