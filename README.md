@@ -15,7 +15,7 @@
   - [Build Your resume ](#build-your-resume-)
   - [Find books related to computer science and it ](#find-books-related-to-computer-science-and-it-)
   - [Find various courses ](#find-various-courses-)
-    - [Large collection of my favorite GitHub Repositories ](#large-collection-of-my-favorite-github-repositories-)
+  - [Large collection of my favorite GitHub Repositories ](#large-collection-of-my-favorite-github-repositories-)
   - [Find remote jobs ](#find-remote-jobs-)
   - [miscellaneous ](#miscellaneous-)
 
@@ -278,7 +278,7 @@
 * The Odin Project: https://www.theodinproject.com/
 * saylor Academy: https://learn.saylor.orgs
 
-### Large collection of my favorite GitHub Repositories <br>
+## Large collection of my favorite GitHub Repositories <br>
 
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
