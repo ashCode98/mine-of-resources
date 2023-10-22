@@ -54,6 +54,8 @@
 * Codepen: https://codepen.io/
 * Code Conquest: https://www.codeconquest.com/
 
+<hr>
+
 ## Good Resources for Competitive Programming <br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
@@ -72,6 +74,8 @@
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
 
+<hr>
+
 ## for Data Structures and Algorithms <br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
@@ -87,6 +91,8 @@
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
 
+<hr>
+
 ## Learn CSS by playing games <br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
@@ -98,11 +104,15 @@
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
 
+<hr>
+
 ## Improve your typing speed <br>
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
 * Keymash: https://keymash.io/
+
+<hr>
 
 ## Tools and softwares which can help you to stay productive and focused <br>
 
@@ -118,10 +128,14 @@
 * 92+ Productivity Tools:- 
 ![](92Tools.jpg)
 
+<hr>
+
 ## Various AI Tools <br>
 
 ![](Productive_AI_apps.webp)
 <br><br>*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
+
+<hr>
 
 ## Best YouTube Channels for Learning <br>
 
@@ -173,6 +187,8 @@
 * [Career With Gaurav](https://www.youtube.com/@careerwithgaurav)
 * [CS Dojo](https://www.youtube.com/@CSDojo)
 
+<hr>
+
 ## Notion Templates with Learning Resources <br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
@@ -184,6 +200,8 @@
 * [JavaScript Unleashed - Handbook](https://horse-learning-8df.notion.site/JavaScript-Unleashed-The-Ultimate-Resource-Handbook-ba60dfd4b98e4ff7a45635c3bea20850)
 * [React Unleashed - Handbook](https://horse-learning-8df.notion.site/React-Unleashed-The-Ultimate-Resource-Hand-Book-661f9a23206441e983cac167494b6a40)
 * [Web dev resources - 2.0](https://www.notion.so/ashcode98/Web-dev-resources-public-e8d96efb2ef541f6b9ca1fe787bbd476?pvs=4)
+
+<hr>
 
 ## Find various cheat-sheets for various programming languages and frameworks <br>
 
@@ -198,6 +216,8 @@
 * [codehouse.vercel.app](https://codehouse.vercel.app/)
 * [developer-cheatsheets.com](http://developer-cheatsheets.com/)
 * [All-cheat-sheet.org](https://cheat-sheets.org/)
+
+<hr>
 
 ## Free website hosting sites <br>
 
@@ -218,6 +238,8 @@
 * FreeWebHostingPro: http://freewebhostingpro.com
 * ProHosts: http://prohosts.org
 * FreeZoka: http://freezoka.com
+
+<hr>
 
 ## Build Your resume <br>
 
@@ -240,9 +262,13 @@
 * 🖥 [visualcv.com](http://visualcv.com/)
 * 📄 [zety.com](http://zety.com/)
 
+<hr>
+
 ## Find books related to computer science and it <br>
 
 * [it-books](http://it-ebooks.info/)
+
+<hr>
 
 ## Find various courses <br>
 
@@ -277,6 +303,8 @@
 * Learn Vern: https://www.learnvern.com/
 * The Odin Project: https://www.theodinproject.com/
 * saylor Academy: https://learn.saylor.orgs
+
+<hr>
 
 ## Large collection of my favorite GitHub Repositories <br>
 
@@ -331,28 +359,32 @@
 * DSA bootcamp by kunal kushwaha: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 * how-web-works: https://github.com/vasanthk/how-web-works
 
+<hr>
+
 ## Find remote jobs <br>
 
-* arc .dev
-* dice .co
-* remote .co
-* devsnap .io
-* remotive .io
-* remoteok .io
-* flexjobs .com
-* upwork .com
-* pangian .com
-* whoishiring .io
-* justremote .co
-* wellfound .com
-* remotefront .io
-* powertofly .com
-* skipthedrive .com
-* authenticjobs .com
-* workingnomads .co
-* virtualvocations. com
-* weworkremotely. com
-  
+* [arc.dev](https://arc.dev/)
+* [dice.com](https://www.dice.com/)
+* [remote.com](https://remote.com/)
+* [devsnap.io](https://devsnap.io/)
+* [remotive.io](https://remotive.io/)
+* [remoteok.io](https://remoteok.io/)
+* [flexjobs.com](https://www.flexjobs.com/)
+* [upwork.com](https://www.upwork.com/)
+* [pangian.com](https://pangian.com/)
+* [whoishiring.io](https://whoishiring.io/)
+* [justremote.com](https://justremote.co/)
+* [wellfound.com](https://wellfound.com/)
+* [remotefront.io](https://remotefront.io/)
+* [powertofly.com](https://powertofly.com/)
+* [skipthedrive.com](https://www.skipthedrive.com/)
+* [authenticjobs.com](https://authenticjobs.com/)
+* [workingnomads.com](https://www.workingnomads.co/jobs)
+* [virtualvocations.com](https://www.virtualvocations.com/)
+* [weworkremotely.com](https://weworkremotely.com/)
+
+<hr>
+
 ## miscellaneous <br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
