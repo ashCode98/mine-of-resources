@@ -33,6 +33,7 @@
 * Roadmap.sh(All the roadmaps): https://roadmap.sh/
 * Replit: https://replit.com/
 * Codepen: https://codepen.io/
+* Code Conquest: https://www.codeconquest.com/
 
 <h1>Good Resources for Competitive Programming</h1><br>
   
@@ -255,6 +256,7 @@
 * Real.discount: https://www.real.discount/
 * Great Learning: https://www.mygreatlearning.com/academy
 * Learn Vern: https://www.learnvern.com/
+* The Odin Project: https://www.theodinproject.com/
 
 <h1>My collection of GitHub Repositories</h1><br>
 
@@ -293,8 +295,10 @@
 * Javascript Questions: https://github.com/lydiahallie/javascript-questions
 * Front-end Checklist: https://github.com/thedaviddias/Front-End-Checklist
 * You Don't Need: https://github.com/you-dont-need
+* DSA
 
 <h1>miscellaneous</h1><br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
+* [120+ Websites to learn code](https://mikkegoes.com/learn-to-code-for-free/)
