@@ -15,7 +15,8 @@
   - [Build Your resume ](#build-your-resume-)
   - [Find books related to computer science and it ](#find-books-related-to-computer-science-and-it-)
   - [Find various courses ](#find-various-courses-)
-  - [My collection of GitHub Repositories ](#my-collection-of-github-repositories-)
+    - [Large collection of my favorite GitHub Repositories ](#large-collection-of-my-favorite-github-repositories-)
+  - [Find remote jobs ](#find-remote-jobs-)
   - [miscellaneous ](#miscellaneous-)
 
 ## Best Coding Platforms to practice your skills<br>
@@ -275,8 +276,9 @@
 * Great Learning: https://www.mygreatlearning.com/academy
 * Learn Vern: https://www.learnvern.com/
 * The Odin Project: https://www.theodinproject.com/
+* saylor Academy: https://learn.saylor.orgs
 
-## My collection of GitHub Repositories <br>
+### Large collection of my favorite GitHub Repositories <br>
 
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
@@ -313,8 +315,44 @@
 * Javascript Questions: https://github.com/lydiahallie/javascript-questions
 * Front-end Checklist: https://github.com/thedaviddias/Front-End-Checklist
 * You Don't Need: https://github.com/you-dont-need
-* DSA
+* HTML5 interview questions: https://github.com/Devinterview-io/html5-interview-questions
+* html-basics: https://github.com/learning-zone/html-basics
+* css-pro Tips: https://github.com/AllThingsSmitty/css-protips
+* Awesome Css learning: https://github.com/micromata/awesome-css-learning
+* Css interview questions: https://github.com/Devinterview-io/css-interview-questions
+* Front-End-Checklist: https://github.com/thedaviddias/Front-End-Checklist
+* spellbook-of-modern-webdev: https://github.com/dexteryy/spellbook-of-modern-webdev
+* javascript-interview-questions: https://github.com/lydiahallie/javascript-questions
+* Awesome-javascript: https://github.com/sorrycc/awesome-javascript
+* Awesome-react: https://github.com/enaqx/awesome-react
+* Awesome-nodejs: https://github.com/sindresorhus/awesome-nodejs
+* Awesome-Algorithms: https://github.com/tayllan/awesome-algorithms 
+* The-Complete-FAANG-Preparation: https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
+* DSA bootcamp by kunal kushwaha: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+* how-web-works: https://github.com/vasanthk/how-web-works
 
+## Find remote jobs <br>
+
+* arc .dev
+* dice .co
+* remote .co
+* devsnap .io
+* remotive .io
+* remoteok .io
+* flexjobs .com
+* upwork .com
+* pangian .com
+* whoishiring .io
+* justremote .co
+* wellfound .com
+* remotefront .io
+* powertofly .com
+* skipthedrive .com
+* authenticjobs .com
+* workingnomads .co
+* virtualvocations. com
+* weworkremotely. com
+  
 ## miscellaneous <br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
