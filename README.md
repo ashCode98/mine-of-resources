@@ -376,7 +376,7 @@
 |Advanced-javascript-questions|A list of 150+ javascript questions|https://github.com/lydiahallie/javascript-questions|
 |Awesome-Algorithms||https://github.com/tayllan/awesome-algorithms| 
 |The-Complete-FAANG-Preparation||https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation|
-|DSA bootcamp by kunal kushwaha||https://github.com/kunal-kushwaha/DSA-Bootcamp-Java|
+|DSA bootcamp by kunal kushwaha|DSA + Interview preparation bootcamp|https://github.com/kunal-kushwaha/DSA-Bootcamp-Java|
 |how-web-works||https://github.com/vasanthk/how-web-works|
 |Effective Engineer||https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8|
 |frontend-dev-bookmarks||https://github.com/akikoo/frontend-dev-bookmarks|
