@@ -268,6 +268,8 @@
 ## Find books related to computer science and it <br>
 
 * [it-books](http://it-ebooks.info/)
+* [awesome-progaming-books](https://github.com/zero-equals-false/awesome-programming-books)
+
 
 <hr>
 
@@ -314,7 +316,9 @@
 * Lot's of resources: https://github.com/unicodeveloper/resources-i-like
 * Another resources: https://github.com/ashCode98/learning-resources
 * Learning Resouces by Codechef: https://github.com/ashCode98/codechefLearning
-* A collection of good repos: https://github.com/ashCode98/awesome-github-repo
+* Coding resources: https://github.com/ashCode98/ultimate-coding-resources
+* Become A Full Stack Web Developer: https://github.com/ashCode98/Become-A-Full-Stack-Web-Developer
+* A collection of GitHub repos: https://github.com/ashCode98/awesome-github-repo
 * The Algorithms: https://github.com/TheAlgorithms
 * FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
 * Free Programming Books: https://github.com/EbookFoundation/free-programming-books
@@ -365,6 +369,7 @@
 * Awesome-competitive-programming: https://github.com/ashCode98/awesome-competitive-programming
 * Awesome-software-engineering: https://github.com/Alliedium/awesome-software-engineering
 * Awesome Reinforcement Learning: https://github.com/aikorea/awesome-rl
+* system-design-resources: https://github.com/ashCode98/system-design-resources
 
 <hr>
 
