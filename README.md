@@ -91,6 +91,7 @@
 * Abdul Bari: https://www.youtube.com/@abdul_bari/featured
 * CodeHelp - by Babbar: https://www.youtube.com/@CodeHelp/featured
 * c++ STL guide - Leetcode Section: https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations
+* awesome-algorithms: https://github.com/tayllan/awesome-algorithms
 
 <hr>
 
@@ -313,12 +314,15 @@
 
 |Name|Description|Link|
 |:------|:-------------|:---|
-|awesome-youtubers||(https://github.com/ashCode98/awesome-youtubers)|
+|awesome-youtubers|Curated list of helpful channels|https://github.com/ashCode98/awesome-youtubers|
+|A-to-Z-Resources-for-Students|Curated list of resources for college students|https://github.com/dipakkr/A-to-Z-Resources-for-Students|
+|useful bookmarks|A collection of a lots of useful bookmarks|https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR|
 |All Awesome Lists||https://github.com/ashCode98/awesome-lists|
 |List of Good repos||https://github.com/ashCode98/awesome-repos|
 |Lot's of resources||https://github.com/unicodeveloper/resources-i-like|
 |Another resources||https://github.com/ashCode98/learning-resources|
 |Learning Resouces by Codechef||https://github.com/ashCode98/codechefLearning|
+|Resources-for-preparation-Of-Placements||https://github.com/riti2409/Resources-for-preparation-Of-Placements|
 |Reddit-wiki-programming||https://github.com/ashCode98/Reddit-wiki-programming|
 |Coding resources||https://github.com/ashCode98/ultimate-coding-resources|
 |Become A Full Stack Developer||https://github.com/ashCode98/Become-A-Full-Stack-Web-Developer|
@@ -363,6 +367,7 @@
 |Front-End-Checklist||https://github.com/thedaviddias/Front-End-Checklist|
 |spellbook-of-modern-webdev||https://github.com/dexteryy/spellbook-of-modern-webdev|
 |javascript-interview-questions||https://github.com/lydiahallie/javascript-questions|
+|Advanced-javascript-questions|A list of 150+ javascript questions|https://github.com/lydiahallie/javascript-questions|
 |Awesome-Algorithms||https://github.com/tayllan/awesome-algorithms| 
 |The-Complete-FAANG-Preparation||https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation|
 |DSA bootcamp by kunal kushwaha||https://github.com/kunal-kushwaha/DSA-Bootcamp-Java|
@@ -376,6 +381,11 @@
 |system-design-resources||https://github.com/ashCode98/system-design-resources|
 |Machine-Learning-Tutorials||https://github.com/ujjwalkarn/Machine-Learning-Tutorials|
 |cs-video-courses||https://github.com/Developer-Y/cs-video-courses|
+|student-offers||https://github.com/ShreyamMaity/student-offers|
+|Free-Certifications||https://github.com/cloudcommunity/Free-Certifications|
+|the-book-of-secret-knowledge|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.|https://github.com/trimstray/the-book-of-secret-knowledge|
+|every-programmer-should-know|A collection of (mostly) technical things every software developer should know.|https://github.com/mtdvio/every-programmer-should-know|
+|professional-programming|The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.|https://github.com/charlax/professional-programming|
 
 <hr>
 
