@@ -310,6 +310,7 @@
 ## Large collection of my favorite GitHub Repositories <br>
 
 * All Awesome Lists: https://github.com/ashCode98/awesome-lists
+* List of Good repos: https://github.com/ashCode98/awesome-repos
 * Lot's of resources: https://github.com/unicodeveloper/resources-i-like
 * Another resources: https://github.com/ashCode98/learning-resources
 * Learning Resouces by Codechef: https://github.com/ashCode98/codechefLearning
@@ -363,6 +364,7 @@
 * ossu-computer-science-progress: https://github.com/ashCode98/ossu-computer-science-progress
 * Awesome-competitive-programming: https://github.com/ashCode98/awesome-competitive-programming
 * Awesome-software-engineering: https://github.com/Alliedium/awesome-software-engineering
+* Awesome Reinforcement Learning: https://github.com/aikorea/awesome-rl
 
 <hr>
 
