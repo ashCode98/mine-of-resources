@@ -316,10 +316,12 @@
 |:------|:-------------|:---|
 |awesome-youtubers|Curated list of helpful channels|https://github.com/ashCode98/awesome-youtubers|
 |awesome|The "awesome" repository is a collection of curated lists of resources on various topics|https://github.com/sindresorhus/awesome|
+|Learning code through github repos|There are amazing resources that are available for code newbies to learn and develop their skills.|https://github.com/muchirijane/learning-code-through-github-repos|
 |A-to-Z-Resources-for-Students|Curated list of resources for college students|https://github.com/dipakkr/A-to-Z-Resources-for-Students|
 |useful bookmarks|A collection of a lots of useful bookmarks|https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR|
 |All Awesome Lists||https://github.com/ashCode98/awesome-lists|
 |List of Good repos||https://github.com/ashCode98/awesome-repos|
+|awesome-repositories|A list of useful Repos|https://github.com/ashCode98/awesome-repositories|
 |Lot's of resources||https://github.com/unicodeveloper/resources-i-like|
 |Another resources||https://github.com/ashCode98/learning-resources|
 |Learning Resouces by Codechef||https://github.com/ashCode98/codechefLearning|
@@ -353,6 +355,7 @@
 |Javascript Algorithm|This repository contains JavaScript based examples of many popular algorithms and data structures.|https://github.com/trekhleb/javascript-algorithms|
 |Effective Engineer||https://gist.github.com/|
 |Beautiful Docs||https://github.com/matheusfelipeog/beautiful-docs|
+|wtfjs||https://github.com/denysdovhan/wtfjs|
 |Complete Python Bootcamp||https://github.com/Pierian-Data/Complete-Python-3-Bootcamp|
 |The Book of Secret Knowledge||https://github.com/trimstray/the-book-of-secret-knowledge|
 |List of funny and tricky JavaScript examples||https://github.com/denysdovhan/dotfiles|
@@ -378,9 +381,12 @@
 |Effective Engineer||https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8|
 |frontend-dev-bookmarks||https://github.com/akikoo/frontend-dev-bookmarks|
 |ossu-computer-science-progress||https://github.com/ashCode98/ossu-computer-science-progress|
+|papers-we-love|Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.|https://github.com/papers-we-love/papers-we-love|
 |Awesome-competitive-programming||https://github.com/ashCode98/awesome-competitive-programming|
 |Awesome-software-engineering||https://github.com/Alliedium/awesome-software-engineering|
 |Awesome Reinforcement Learning||https://github.com/aikorea/awesome-rl|
+|awesome-python|A curated list of awesome Python frameworks, libraries, software and resources.|https://github.com/vinta/awesome-python|
+|awesome-react|A collection of awesome things regarding the React ecosystem.|https://github.com/enaqx/awesome-react|
 |system-design-resources||https://github.com/ashCode98/system-design-resources|
 |Machine-Learning-Tutorials||https://github.com/ujjwalkarn/Machine-Learning-Tutorials|
 |cs-video-courses||https://github.com/Developer-Y/cs-video-courses|
@@ -393,6 +399,7 @@
 |first-contributions|This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.|https://github.com/firstcontributions/first-contributions|
 |Useful Resources for Developers|A list of student-collated resources deemed to be useful for every developer and categorised|https://github.com/zero-to-mastery/resources|
 |clean-code-javascript|It's a guide to producing readable, reusable, and refactorable software in JavaScript.|https://github.com/ryanmcdermott/clean-code-javascript|
+|codelibrary|Collection of algorithms and data structures in C++, Java, Kotlin and Python|https://github.com/indy256/codelibrary|
 
 <hr>
 
