@@ -315,6 +315,7 @@
 |Name|Description|Link|
 |:------|:-------------|:---|
 |awesome-youtubers|Curated list of helpful channels|https://github.com/ashCode98/awesome-youtubers|
+|awesome|The "awesome" repository is a collection of curated lists of resources on various topics|https://github.com/sindresorhus/awesome|
 |A-to-Z-Resources-for-Students|Curated list of resources for college students|https://github.com/dipakkr/A-to-Z-Resources-for-Students|
 |useful bookmarks|A collection of a lots of useful bookmarks|https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR|
 |All Awesome Lists||https://github.com/ashCode98/awesome-lists|
@@ -324,11 +325,12 @@
 |Learning Resouces by Codechef||https://github.com/ashCode98/codechefLearning|
 |Resources-for-preparation-Of-Placements||https://github.com/riti2409/Resources-for-preparation-Of-Placements|
 |Reddit-wiki-programming||https://github.com/ashCode98/Reddit-wiki-programming|
+|Best-websites-a-programmer-should-visit|Some useful websites for programmers.|https://github.com/sdmg15/Best-websites-a-programmer-should-visit|
 |Coding resources||https://github.com/ashCode98/ultimate-coding-resources|
 |Become A Full Stack Developer||https://github.com/ashCode98/Become-A-Full-Stack-Web-Developer|
 |A collection of GitHub repos||https://github.com/ashCode98/awesome-github-repo|
 |The Algorithms||https://github.com/TheAlgorithms|
-|FreeCodeCamp||https://github.com/freeCodeCamp/freeCodeCamp|
+|FreeCodeCamp|freeCodeCamp.org is a friendly community where you can learn to code for free|https://github.com/freeCodeCamp/freeCodeCamp|
 |Free Programming Books||https://github.com/EbookFoundation/free-programming-books|
 |100 Days of ML Code||https://github.com/Avik-Jain/100-Days-Of-ML-Code|
 |Product Based Learning||https://github.com/practical-tutorials/project-based-learning|
@@ -348,7 +350,7 @@
 |The Art of Command Line||https://github.com/jlevy/the-art-of-command-line|
 |Tech Interview Handbook||https://github.com/yangshun/tech-interview-handbook|
 |Project Guild lines||https://github.com/elsewhencode/project-guidelines|
-|Javascript Algorithm||https://github.com/trekhleb/javascript-algorithms|
+|Javascript Algorithm|This repository contains JavaScript based examples of many popular algorithms and data structures.|https://github.com/trekhleb/javascript-algorithms|
 |Effective Engineer||https://gist.github.com/|
 |Beautiful Docs||https://github.com/matheusfelipeog/beautiful-docs|
 |Complete Python Bootcamp||https://github.com/Pierian-Data/Complete-Python-3-Bootcamp|
@@ -357,6 +359,7 @@
 |Big List of Naughty Strings||https://github.com/minimaxir/big-list-of-naughty-strings|
 |Node.js best practices||https://github.com/goldbergyoni/nodebestpractices|
 |The mother of all demo apps||https://github.com/gothinkster/realworld|
+|Front-end-Developer-Interview-Questions|This repository contains a number of front-end interview questions that can be used when vetting potential candidates|https://github.com/h5bp/Front-end-Developer-Interview-Questions|
 |Javascript Questions||https://github.com/lydiahallie/javascript-questions|
 |Front-end Checklist||https://github.com/thedaviddias/Front-End-Checklist|
 |You Don't Need||https://github.com/you-dont-need|
@@ -386,6 +389,10 @@
 |the-book-of-secret-knowledge|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.|https://github.com/trimstray/the-book-of-secret-knowledge|
 |every-programmer-should-know|A collection of (mostly) technical things every software developer should know.|https://github.com/mtdvio/every-programmer-should-know|
 |professional-programming|The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.|https://github.com/charlax/professional-programming|
+|free-for-dev|This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.|https://github.com/ripienaar/free-for-dev|
+|first-contributions|This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.|https://github.com/firstcontributions/first-contributions|
+|Useful Resources for Developers|A list of student-collated resources deemed to be useful for every developer and categorised|https://github.com/zero-to-mastery/resources|
+|clean-code-javascript|It's a guide to producing readable, reusable, and refactorable software in JavaScript.|https://github.com/ryanmcdermott/clean-code-javascript|
 
 <hr>
 
