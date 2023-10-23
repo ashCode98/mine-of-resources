@@ -311,65 +311,71 @@
 
 ## Large collection of my favorite GitHub Repositories <br>
 
-* All Awesome Lists: https://github.com/ashCode98/awesome-lists
-* List of Good repos: https://github.com/ashCode98/awesome-repos
-* Lot's of resources: https://github.com/unicodeveloper/resources-i-like
-* Another resources: https://github.com/ashCode98/learning-resources
-* Learning Resouces by Codechef: https://github.com/ashCode98/codechefLearning
-* Coding resources: https://github.com/ashCode98/ultimate-coding-resources
-* Become A Full Stack Web Developer: https://github.com/ashCode98/Become-A-Full-Stack-Web-Developer
-* A collection of GitHub repos: https://github.com/ashCode98/awesome-github-repo
-* The Algorithms: https://github.com/TheAlgorithms
-* FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
-* Free Programming Books: https://github.com/EbookFoundation/free-programming-books
-* 100 Days of ML Code: https://github.com/Avik-Jain/100-Days-Of-ML-Code
-* Product Based Learning: https://github.com/practical-tutorials/project-based-learning
-* Public APIs: https://github.com/public-apis/public-apis
-* Coding Interview University: https://github.com/jwasham/coding-interview-university
-* Developer RoadMap: https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md
-* Computer Science: https://github.com/ossu/computer-science
-* 30 Seconds of Code: https://github.com/30-seconds
-* You Don't Know JS: https://github.com/jumaschion/You-Dont-Know-JS-1
-* Bootstrap: https://github.com/twbs/bootstrap
-* TensorFlow: https://github.com/tensorflow/tensorflow
-* Keyboard Shortcuts: https://github.com/sindresorhus/KeyboardShortcuts/releases
-* Build your own X: https://github.com/codecrafters-io/build-your-own-x
-* Design Resources for Developers: https://github.com/bradtraversy/design-resources-for-developers
-* App Ideas: https://github.com/florinpop17/app-ideas
-* GitIgnore: https://github.com/github/gitignore
-* The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
-* Tech Interview Handbook: https://github.com/yangshun/tech-interview-handbook
-* Project Guild lines: https://github.com/elsewhencode/project-guidelines
-* Javascript Algorithm: https://github.com/trekhleb/javascript-algorithms
-* Effective Engineer: https://gist.github.com/
-* Beautiful Docs: https://github.com/matheusfelipeog/beautiful-docs
-* Complete Python Bootcamp: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
-* The Book of Secret Knowledge: https://github.com/trimstray/the-book-of-secret-knowledge
-* List of funny and tricky JavaScript examples: https://github.com/denysdovhan/dotfiles
-* Big List of Naughty Strings: https://github.com/minimaxir/big-list-of-naughty-strings
-* Node.js best practices: https://github.com/goldbergyoni/nodebestpractices
-* The mother of all demo apps: https://github.com/gothinkster/realworld
-* Javascript Questions: https://github.com/lydiahallie/javascript-questions
-* Front-end Checklist: https://github.com/thedaviddias/Front-End-Checklist
-* You Don't Need: https://github.com/you-dont-need
-* HTML5 interview questions: https://github.com/Devinterview-io/html5-interview-questions
-* html-basics: https://github.com/learning-zone/html-basics
-* css-pro Tips: https://github.com/AllThingsSmitty/css-protips
-* Css interview questions: https://github.com/Devinterview-io/css-interview-questions
-* Front-End-Checklist: https://github.com/thedaviddias/Front-End-Checklist
-* spellbook-of-modern-webdev: https://github.com/dexteryy/spellbook-of-modern-webdev
-* javascript-interview-questions: https://github.com/lydiahallie/javascript-questions
-* Awesome-Algorithms: https://github.com/tayllan/awesome-algorithms 
-* The-Complete-FAANG-Preparation: https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
-* DSA bootcamp by kunal kushwaha: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
-* how-web-works: https://github.com/vasanthk/how-web-works
-* Effective Engineer: https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8
-* frontend-dev-bookmarks: https://github.com/akikoo/frontend-dev-bookmarks
-* ossu-computer-science-progress: https://github.com/ashCode98/ossu-computer-science-progress
-* Awesome-competitive-programming: https://github.com/ashCode98/awesome-competitive-programming
-* Awesome-software-engineering: https://github.com/Alliedium/awesome-software-engineering
-* Awesome Reinforcement Learning: https://github.com/aikorea/awesome-rl
-* system-design-resources: https://github.com/ashCode98/system-design-resources
+|Name|Description|Link|
+|:------|:-------------|:---|
+|awesome-youtubers||(https://github.com/ashCode98/awesome-youtubers)|
+|All Awesome Lists||https://github.com/ashCode98/awesome-lists|
+|List of Good repos||https://github.com/ashCode98/awesome-repos|
+|Lot's of resources||https://github.com/unicodeveloper/resources-i-like|
+|Another resources||https://github.com/ashCode98/learning-resources|
+|Learning Resouces by Codechef||https://github.com/ashCode98/codechefLearning|
+|Reddit-wiki-programming||https://github.com/ashCode98/Reddit-wiki-programming|
+|Coding resources||https://github.com/ashCode98/ultimate-coding-resources|
+|Become A Full Stack Developer||https://github.com/ashCode98/Become-A-Full-Stack-Web-Developer|
+|A collection of GitHub repos||https://github.com/ashCode98/awesome-github-repo|
+|The Algorithms||https://github.com/TheAlgorithms|
+|FreeCodeCamp||https://github.com/freeCodeCamp/freeCodeCamp|
+|Free Programming Books||https://github.com/EbookFoundation/free-programming-books|
+|100 Days of ML Code||https://github.com/Avik-Jain/100-Days-Of-ML-Code|
+|Product Based Learning||https://github.com/practical-tutorials/project-based-learning|
+|Public APIs||https://github.com/public-apis/public-apis|
+|Coding Interview University||https://github.com/jwasham/coding-interview-university|
+|Developer RoadMap||https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md|
+|Computer Science||https://github.com/ossu/computer-science|
+|30 Seconds of Code||https://github.com/30-seconds|
+|You Don't Know JS||https://github.com/jumaschion/You-Dont-Know-JS-1|
+|Bootstrap||https://github.com/twbs/bootstrap|
+|TensorFlow||https://github.com/tensorflow/tensorflow|
+|Keyboard Shortcuts||https://github.com/sindresorhus/KeyboardShortcuts/releases|
+|Build your own X||https://github.com/codecrafters-io/build-your-own-x|
+|Design Resources for Developers||https://github.com/bradtraversy/design-resources-for-developers|
+|App Ideas||https://github.com/florinpop17/app-ideas|
+|GitIgnore||https://github.com/github/gitignore|
+|The Art of Command Line||https://github.com/jlevy/the-art-of-command-line|
+|Tech Interview Handbook||https://github.com/yangshun/tech-interview-handbook|
+|Project Guild lines||https://github.com/elsewhencode/project-guidelines|
+|Javascript Algorithm||https://github.com/trekhleb/javascript-algorithms|
+|Effective Engineer||https://gist.github.com/|
+|Beautiful Docs||https://github.com/matheusfelipeog/beautiful-docs|
+|Complete Python Bootcamp||https://github.com/Pierian-Data/Complete-Python-3-Bootcamp|
+|The Book of Secret Knowledge||https://github.com/trimstray/the-book-of-secret-knowledge|
+|List of funny and tricky JavaScript examples||https://github.com/denysdovhan/dotfiles|
+|Big List of Naughty Strings||https://github.com/minimaxir/big-list-of-naughty-strings|
+|Node.js best practices||https://github.com/goldbergyoni/nodebestpractices|
+|The mother of all demo apps||https://github.com/gothinkster/realworld|
+|Javascript Questions||https://github.com/lydiahallie/javascript-questions|
+|Front-end Checklist||https://github.com/thedaviddias/Front-End-Checklist|
+|You Don't Need||https://github.com/you-dont-need|
+|HTML5 interview questions||https://github.com/Devinterview-io/html5-interview-questions|
+|html-basics||https://github.com/learning-zone/html-basics|
+|css-pro Tips||https://github.com/AllThingsSmitty/css-protips|
+|Css interview questions||https://github.com/Devinterview-io/css-interview-questions|
+|Front-End-Checklist||https://github.com/thedaviddias/Front-End-Checklist|
+|spellbook-of-modern-webdev||https://github.com/dexteryy/spellbook-of-modern-webdev|
+|javascript-interview-questions||https://github.com/lydiahallie/javascript-questions|
+|Awesome-Algorithms||https://github.com/tayllan/awesome-algorithms| 
+|The-Complete-FAANG-Preparation||https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation|
+|DSA bootcamp by kunal kushwaha||https://github.com/kunal-kushwaha/DSA-Bootcamp-Java|
+|how-web-works||https://github.com/vasanthk/how-web-works|
+|Effective Engineer||https://gist.github.com/ashCode98/467bf4108243bca12a3f159bff7e04b8|
+|frontend-dev-bookmarks||https://github.com/akikoo/frontend-dev-bookmarks|
+|ossu-computer-science-progress||https://github.com/ashCode98/ossu-computer-science-progress|
+|Awesome-competitive-programming||https://github.com/ashCode98/awesome-competitive-programming|
+|Awesome-software-engineering||https://github.com/Alliedium/awesome-software-engineering|
+|Awesome Reinforcement Learning||https://github.com/aikorea/awesome-rl|
+|system-design-resources||https://github.com/ashCode98/system-design-resources|
+|Machine-Learning-Tutorials||https://github.com/ujjwalkarn/Machine-Learning-Tutorials|
+|cs-video-courses||https://github.com/Developer-Y/cs-video-courses|
 
 <hr>
 
