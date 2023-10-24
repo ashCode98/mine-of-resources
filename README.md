@@ -425,3 +425,4 @@
 * [Useful Tools and Softwares](https://www.notion.so/ashcode98/Resource-2-0-0b93bd45ec794716a5d2c306b10b10a2?pvs=4)
 * [120+ Websites to learn code](https://mikkegoes.com/learn-to-code-for-free/)
 * [learn how multiprocessing(CPU) works](https://cpu.land/)
+* [Find various blogs ralated to programming](https://www.theinsaneapp.com/)
