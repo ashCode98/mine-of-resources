@@ -24,7 +24,7 @@
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
 * LeetCode: https://leetcode.com/
-* Scaler Topics InterviewBit: https://www.scaler.com/
+* Scaler Topics InterviewBit: https://www.scaler.com/topics/
 * Codechef: https://www.codechef.com/
 * Codeforces: https://codeforces.com/
 * Microsoft MakeCode: https://makecode.com
