@@ -40,8 +40,6 @@
 * coderbyte: https://www.coderbyte.com/
 * projecteuler: https://www.projecteuler.net/
 * interviewwbit: https://www.interviewbit.com/
-* codeeval: https://www.codeeval.com/
-* Microsoft Makecode: https://makecode.com
 * GFG Practice: https://practice.geeksforgeeks.org/
 * W3Schools: https://www.w3schools.com/
 * TakeUForward: https://www.takeuforward.com/
