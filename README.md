@@ -28,7 +28,7 @@
 * Codechef: https://www.codechef.com/
 * Codeforces: https://codeforces.com/
 * Microsoft MakeCode: https://makecode.com
-* Code Studio: https://www.pepcoding.com/
+* Pepcoding: https://www.pepcoding.com/
 * FreeCodeCamp: https://www.freecodecamp.org/
 * TopCoder: https://www.topcoder.com/
 * SPOJ: https://www.spoj.com/
