@@ -42,7 +42,7 @@
 * interviewwbit: https://www.interviewbit.com/
 * GFG Practice: https://practice.geeksforgeeks.org/
 * W3Schools: https://www.w3schools.com/
-* TakeUForward: https://www.takeuforward.com/
+* TakeUForward: https://takeuforward.org/
 * TutorialsPoint: https://www.tutorialspoint.com/index.htm
 * Sololearn: https://www.sololearn.com/
 * StudyTonight: https://www.studytonight.com/
