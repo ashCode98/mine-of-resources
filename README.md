@@ -201,6 +201,7 @@
 * [JavaScript Unleashed - Handbook](https://horse-learning-8df.notion.site/JavaScript-Unleashed-The-Ultimate-Resource-Handbook-ba60dfd4b98e4ff7a45635c3bea20850)
 * [React Unleashed - Handbook](https://horse-learning-8df.notion.site/React-Unleashed-The-Ultimate-Resource-Hand-Book-661f9a23206441e983cac167494b6a40)
 * [Web dev resources - 2.0](https://www.notion.so/ashcode98/Web-dev-resources-public-e8d96efb2ef541f6b9ca1fe787bbd476?pvs=4)
+* [160+ Interview Essentials](https://madzadev.notion.site/160-Interview-Essentials-dac0933ff0744fb2be71c12f495c1f60)
 
 <hr>
 
