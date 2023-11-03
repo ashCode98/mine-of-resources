@@ -392,6 +392,7 @@
 |[Useful-Resources-for-Developers](https://github.com/zero-to-mastery/resources)|A list of student-collated resources deemed to be useful for every developer and categorised.|General|
 |[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|It's a guide to producing readable, reusable, and refactorable software in JavaScript.|javascript|
 |[codelibrary](https://github.com/indy256/codelibrary)|Collection of algorithms and data structures in C++, Java, Kotlin and Python.|General|
+|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|contains lots of various resources.|General|
 
 <hr>
 
