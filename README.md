@@ -393,6 +393,7 @@
 |[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|It's a guide to producing readable, reusable, and refactorable software in JavaScript.|javascript|
 |[codelibrary](https://github.com/indy256/codelibrary)|Collection of algorithms and data structures in C++, Java, Kotlin and Python.|General|
 |[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|contains lots of various resources.|General|
+|[awesome-github](https://github.com/Kikobeats/awesome-github)|contains tools and softwares to enchance your GitHub.|GitHub|
 
 <hr>
 
