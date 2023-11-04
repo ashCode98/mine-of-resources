@@ -394,6 +394,7 @@
 |[codelibrary](https://github.com/indy256/codelibrary)|Collection of algorithms and data structures in C++, Java, Kotlin and Python.|General|
 |[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|contains lots of various resources.|General|
 |[awesome-github](https://github.com/Kikobeats/awesome-github)|contains tools and softwares to enchance your GitHub.|GitHub|
+|[awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)|contains resources for leetcode.|Leetcode|
 
 <hr>
 
