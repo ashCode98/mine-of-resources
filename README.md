@@ -397,6 +397,7 @@
 |[awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)|contains resources for leetcode.|Leetcode|
 |[1on1-questions](https://github.com/VGraupera/1on1-questions)|It contains a list of questions which can could face during 1 on 1.|Meeting questions|
 |[Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-static)|It contains a lots of badges for README file|GitHub|
+|[code-canon](https://github.com/darius/code-canon)|Code worth reading.|Reading Good code|
 
 <hr>
 
