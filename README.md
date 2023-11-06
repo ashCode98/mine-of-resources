@@ -398,6 +398,8 @@
 |[1on1-questions](https://github.com/VGraupera/1on1-questions)|It contains a list of questions which can could face during 1 on 1.|Meeting questions|
 |[Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-static)|It contains a lots of badges for README file|GitHub|
 |[code-canon](https://github.com/darius/code-canon)|Code worth reading.|Reading Good code|
+|[awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps#programming-tools)|Curated list of awesome web apps that work without requesting you to create an account.|no-login-tools|
+|[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding#math)|Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.|Creative coding|
 
 <hr>
 
