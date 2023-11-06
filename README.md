@@ -320,6 +320,8 @@
 |[A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)|Curated list of resources for college students|General|
 |[useful bookmarks](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)|A collection of a lots of useful bookmarks|Bookmark|
 |[All-Awesome-Lists](https://github.com/ashCode98/awesome-lists)|curated list of curated list|General|
+|[must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)|This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.|Javascript|
+|[must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)|This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tooling, and more.|CSS|
 |[List-of-Good-repos](https://github.com/ashCode98/awesome-repos)|A curated list of GitHub Repositories|General|
 |[awesome-repositories](https://github.com/ashCode98/awesome-repositories)|A curated list of GitHub Repositories|General|
 |[Lot's-of-resources](https://github.com/unicodeveloper/resources-i-like)|Lots of learning resources|General|
@@ -400,6 +402,7 @@
 |[code-canon](https://github.com/darius/code-canon)|Code worth reading.|Reading Good code|
 |[awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps#programming-tools)|Curated list of awesome web apps that work without requesting you to create an account.|no-login-tools|
 |[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding#math)|Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.|Creative coding|
+|[inspire](https://github.com/NoahBuscher/Inspire)|Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collection of links to help you.|Front-end|
 
 <hr>
 
