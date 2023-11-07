@@ -323,6 +323,7 @@
 |[must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)|This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.|Javascript|
 |[must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)|This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tooling, and more.|CSS|
 |[List-of-Good-repos](https://github.com/ashCode98/awesome-repos)|A curated list of GitHub Repositories|General|
+|[Best-sql-kit](https://github.com/ktaranov/sqlserver-kit)|Useful links, scripts, tools and best practice for Microsoft SQL Server Database.|Sql|
 |[awesome-repositories](https://github.com/ashCode98/awesome-repositories)|A curated list of GitHub Repositories|General|
 |[Lot's-of-resources](https://github.com/unicodeveloper/resources-i-like)|Lots of learning resources|General|
 |[Another-resources](https://github.com/ashCode98/learning-resources)|Good learning resources|General|
