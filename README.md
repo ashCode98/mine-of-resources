@@ -1,25 +1,25 @@
 # Be a good Engineer
 
 - [Be a good Engineer](#be-a-good-engineer)
-  - [Best Coding Platforms to practice your skills](#best-coding-platforms-to-practice-your-skills)
-  - [Good Resources for Competitive Programming ](#good-resources-for-competitive-programming-)
-  - [for Data Structures and Algorithms ](#for-data-structures-and-algorithms-)
-  - [Learn CSS by playing games ](#learn-css-by-playing-games-)
-  - [Improve your typing speed ](#improve-your-typing-speed-)
-  - [Tools and softwares which can help you to stay productive and focused ](#tools-and-softwares-which-can-help-you-to-stay-productive-and-focused-)
-  - [Various AI Tools ](#various-ai-tools-)
-  - [Best YouTube Channels for Learning ](#best-youtube-channels-for-learning-)
-  - [Notion Templates with Learning Resources ](#notion-templates-with-learning-resources-)
+  - [Coding Platforms](#coding-platforms)
+  - [Competitive Programming Resources](#competitive-programming-resources)
+  - [DSA ](#dsa-)
+  - [CSS-Games ](#css-games-)
+  - [Boost typing speed ](#boost-typing-speed-)
+  - [Productivity tools ](#productivity-tools-)
+  - [AI Tools ](#ai-tools-)
+  - [YouTube Channels ](#youtube-channels-)
+  - [Notion Templates ](#notion-templates-)
   - [Find various cheat-sheets for various programming languages and frameworks ](#find-various-cheat-sheets-for-various-programming-languages-and-frameworks-)
-  - [Free website hosting sites ](#free-website-hosting-sites-)
+  - [Free hosting sites ](#free-hosting-sites-)
   - [Build Your resume ](#build-your-resume-)
-  - [Find books related to computer science and it ](#find-books-related-to-computer-science-and-it-)
-  - [Find various courses ](#find-various-courses-)
-  - [Large collection of my favorite GitHub Repositories ](#large-collection-of-my-favorite-github-repositories-)
-  - [Find remote jobs ](#find-remote-jobs-)
+  - [Books ](#books-)
+  - [Courses ](#courses-)
+  - [GitHub Repositories ](#github-repositories-)
+  - [Remote jobs ](#remote-jobs-)
   - [miscellaneous ](#miscellaneous-)
 
-## Best Coding Platforms to practice your skills<br>
+## Coding Platforms<br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -55,7 +55,7 @@
 
 <hr>
 
-## Good Resources for Competitive Programming <br>
+## Competitive Programming Resources<br>
   
 * Algorithms for CP: https://cp-algorithms.com/index.html
 * CSES Problem Set: https://cses.fi/problemset/
@@ -76,7 +76,7 @@
 
 <hr>
 
-## for Data Structures and Algorithms <br>
+## DSA <br>
 
 * Topic-Wise problems for Beginners: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 * Striver’s SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
@@ -94,7 +94,7 @@
 
 <hr>
 
-## Learn CSS by playing games <br>
+## CSS-Games <br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
 * Flexbox Defense: https://flexboxdefense.com
@@ -107,7 +107,7 @@
 
 <hr>
 
-## Improve your typing speed <br>
+## Boost typing speed <br>
 
 * TypeRacer: https://play.typeracer.com/
 * MonkeyType: https://monkeytype.com/
@@ -115,7 +115,7 @@
 
 <hr>
 
-## Tools and softwares which can help you to stay productive and focused <br>
+## Productivity tools <br>
 
 * Pomodoro Timer(Manage your time): https://pomofocus.io/
 * GoogleDrive(cloud storage): https://www.google.com/drive/
@@ -131,14 +131,14 @@
 
 <hr>
 
-## Various AI Tools <br>
+## AI Tools <br>
 
 ![](Productive_AI_apps.webp)
 <br><br>*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
 <hr>
 
-## Best YouTube Channels for Learning <br>
+## YouTube Channels <br>
 
 * [Take U forward (Best DSA content)](https://www.youtube.com/@takeUforward)
 * [Siraj Raval - For AI](https://www.youtube.com/@SirajRaval/featured)
@@ -190,7 +190,7 @@
 
 <hr>
 
-## Notion Templates with Learning Resources <br>
+## Notion Templates <br>
 
 * [150+ Learning resources](https://madzadev.notion.site/150-Learning-Resources-fbdc990809824560a0ccc36b5a42e04c)
 * [220+ Developer courses](https://madzadev.notion.site/220-Developer-Courses-4c77af66c1424b22b9a62f26e6f4f0a3)
@@ -221,7 +221,7 @@
 
 <hr>
 
-## Free website hosting sites <br>
+## Free hosting sites <br>
 
 * InfinityFree: https://infinityfree.net
 * FreeHosting: https://freehosting.com
@@ -266,7 +266,7 @@
 
 <hr>
 
-## Find books related to computer science and it <br>
+## Books <br>
 
 * [it-books](http://it-ebooks.info/)
 * [awesome-progaming-books](https://github.com/zero-equals-false/awesome-programming-books)
@@ -274,7 +274,7 @@
 
 <hr>
 
-## Find various courses <br>
+## Courses <br>
 
 * Hacksnation: https://hacksnation.com.atlaq.com/
 * Educative.io: https://www.educative.io/
@@ -310,7 +310,7 @@
 
 <hr>
 
-## Large collection of my favorite GitHub Repositories <br>
+## GitHub Repositories <br>
 
 |Name|Description|Category|
 |:------|:-------------|:----|
@@ -407,7 +407,7 @@
 
 <hr>
 
-## Find remote jobs <br>
+## Remote jobs <br>
 
 * [arc.dev](https://arc.dev/)
 * [dice.com](https://www.dice.com/)
