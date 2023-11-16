@@ -30,6 +30,7 @@
 * Microsoft MakeCode: https://makecode.com
 * Pepcoding: https://www.pepcoding.com/
 * FreeCodeCamp: https://www.freecodecamp.org/
+* THe odin Project: https://www.theodinproject.com/
 * TopCoder: https://www.topcoder.com/
 * SPOJ: https://www.spoj.com/
 * Codecademy: https://www.codecademy.com/
@@ -276,7 +277,7 @@
 
 ## Courses <br>
 
-* Hacksnation: https://hacksnation.com.atlaq.com/
+* Hacksnation: https://hacksnation.com/
 * Educative.io: https://www.educative.io/
 * Free Computer Science Courses: https://www.coursera.org/browse/computer-science
 * MIT OpenCourseWare: https://ocw.mit.edu/
