@@ -98,8 +98,7 @@
 ## CSS-Games <br>
 
 * Flexbox Froggy: https://flexboxfroggy.com
-* Flexbox Defense: https://flexboxdefense.com
-* CSS Grid Garden: https://cssgridgarden.com 
+* Flexbox Defense: https://flexboxdefense.com 
 * FlukeOut: https://flukeout.github.io
 * CSS Battle: https://cssbattle.dev
 * Guess CSS: https://guess-css.app
