@@ -53,6 +53,19 @@
 * Codepen: https://codepen.io/
 * Code Conquest: https://www.codeconquest.com/
 * Work@tech: https://workat.tech/profile/ashcode98
+* Boot.dev: https://boot.dev/
+* codesignal: https://app.codesignal.com/
+* Exercism: https://exercism.org/
+* Frontend-mentor: https://www.frontendmentor.io/
+* Frontend practice: https://www.frontendpractice.com/
+* icodethis: https://icodethis.com/
+* interviewcake: https://www.interviewcake.com/
+* Interviewing.io: https://interviewing.io/
+* Just for fun: https://justforfun.io/
+* Kaggle: https://www.kaggle.com/
+* Learn Anything: https://learn-anything.xyz/
+* Lintcode: https://www.lintcode.com/
+* 
 
 <hr>
 
@@ -104,6 +117,8 @@
 * Guess CSS: https://guess-css.app
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
+* Grid critters: https://gridcritters.com
+* Mastery Games: https://mastery.games/
 
 <hr>
 
@@ -118,6 +133,7 @@
 ## Productivity tools <br>
 
 * Pomodoro Timer(Manage your time): https://pomofocus.io/
+* Excalidraw: https://excalidraw.com/
 * GoogleDrive(cloud storage): https://www.google.com/drive/
 * Stackoverflow(Find bug solutions): https://stackoverflow.com/
 * Vim(Command-line only Code editor): https://www.vim.org/
@@ -277,6 +293,7 @@
 ## Courses <br>
 
 * Hacksnation: https://hacksnation.com/
+* Simplilearn: https://www.simplilearn.com/
 * Educative.io: https://www.educative.io/
 * Free Computer Science Courses: https://www.coursera.org/browse/computer-science
 * MIT OpenCourseWare: https://ocw.mit.edu/
