@@ -117,7 +117,6 @@
 * Guess CSS: https://guess-css.app
 * CSS Speedrun: https://css-speedrun.netlify.app
 * Codepip: https://codepip.com
-* Grid critters: https://gridcritters.com
 * Mastery Games: https://mastery.games/
 
 <hr>
@@ -455,4 +454,4 @@
 * [120+ Websites to learn code](https://mikkegoes.com/learn-to-code-for-free/)
 * [learn how multiprocessing(CPU) works](https://cpu.land/)
 * [Find various blogs ralated to programming](https://www.theinsaneapp.com/)
-* [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/)
+* [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
