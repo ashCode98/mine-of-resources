@@ -65,7 +65,6 @@
 * Kaggle: https://www.kaggle.com/
 * Learn Anything: https://learn-anything.xyz/
 * Lintcode: https://www.lintcode.com/
-* 
 
 <hr>
 
