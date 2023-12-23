@@ -454,3 +454,4 @@
 * [learn how multiprocessing(CPU) works](https://cpu.land/)
 * [Find various blogs ralated to programming](https://www.theinsaneapp.com/)
 * [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
+* [awesome things for the Web.](https://andreasbm.github.io/)
