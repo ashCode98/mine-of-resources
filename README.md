@@ -65,7 +65,7 @@
 * Kaggle: https://www.kaggle.com/
 * Learn Anything: https://learn-anything.xyz/
 * Lintcode: https://www.lintcode.com/
-
+* NeetCode.io: https://neetcode.io/
 <hr>
 
 ## Competitive Programming Resources<br>
@@ -86,7 +86,7 @@
 * Utkarsh Gupta: https://www.youtube.com/@utkarshgupta9858
 * Priyansh Agarwal: https://www.youtube.com/@PriyanshAgarwal
 * Best GitHub Repo for CP: https://github.com/ashCode98/awesome-competitive-programming
-
+* Become-Master-In-Recursion: https://leetcode.com/discuss/study-guide/1733447/Become-Master-In-Recursion
 <hr>
 
 ## DSA <br>
@@ -455,3 +455,5 @@
 * [Find various blogs ralated to programming](https://www.theinsaneapp.com/)
 * [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
 * [awesome things for the Web.](https://andreasbm.github.io/)
+* [Project-awesome][https://project-awesome.org/]
+* [peerlist](https://peerlist.io/projects?month=Dec2023)
