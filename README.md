@@ -18,6 +18,7 @@
   - [GitHub Repositories ](#github-repositories-)
   - [Remote jobs ](#remote-jobs-)
   - [miscellaneous ](#miscellaneous-)
+  - [Mind-bogling sites](#Mind-bogling-sites)
 
 ## Coding Platforms<br>
 
@@ -446,6 +447,13 @@
 
 <hr>
 
+## Mind-bogling-sites<br>
+
+* [awesome things for the Web](https://andreasbm.github.io/)
+* [theuselessweb](https://theuselessweb.com/)
+* [neal.fun](https://neal.fun/)
+* [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys/)
+
 ## miscellaneous <br>
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
@@ -454,6 +462,5 @@
 * [learn how multiprocessing(CPU) works](https://cpu.land/)
 * [Find various blogs ralated to programming](https://www.theinsaneapp.com/)
 * [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
-* [awesome things for the Web.](https://andreasbm.github.io/)
-* [Project-awesome][https://project-awesome.org/]
+* [Project-awesome](https://project-awesome.org/)
 * [peerlist](https://peerlist.io/projects?month=Dec2023)
