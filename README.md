@@ -67,6 +67,7 @@
 * Learn Anything: https://learn-anything.xyz/
 * Lintcode: https://www.lintcode.com/
 * NeetCode.io: https://neetcode.io/
+* Codedamn: https://codedamn.com/dashboard
 <hr>
 
 ## Competitive Programming Resources<br>
@@ -452,7 +453,7 @@
 * [awesome things for the Web](https://andreasbm.github.io/)
 * [theuselessweb](https://theuselessweb.com/)
 * [neal.fun](https://neal.fun/)
-* [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys/)
+* [OPTICAL ILLUSIONS & BRAIN BENDING TOYS]( )
 
 ## miscellaneous <br>
 
@@ -464,3 +465,4 @@
 * [50 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
 * [Project-awesome](https://project-awesome.org/)
 * [peerlist](https://peerlist.io/projects?month=Dec2023)
+* [a-curated-compilation-100-github-repositories](https://javascript.plainenglish.io/a-curated-compilation-100-github-repositories-featuring-awesome-lists-5fe6a235dd79)
