@@ -68,6 +68,10 @@
 * Lintcode: https://www.lintcode.com/
 * NeetCode.io: https://neetcode.io/
 * Codedamn: https://codedamn.com/dashboard
+* progate: https://progate.com/dashboard
+* enlight: https://enlight.nyc/
+* javascript30: https://javascript30.com/
+
 <hr>
 
 ## Competitive Programming Resources<br>
@@ -466,3 +470,4 @@
 * [Project-awesome](https://project-awesome.org/)
 * [peerlist](https://peerlist.io/projects?month=Dec2023)
 * [a-curated-compilation-100-github-repositories](https://javascript.plainenglish.io/a-curated-compilation-100-github-repositories-featuring-awesome-lists-5fe6a235dd79)
+* [Code Beautify(Code Formatter, JSON Beautifier and more)](https://codebeautify.org/)
