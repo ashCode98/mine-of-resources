@@ -1,7 +1,7 @@
 # Be a good Engineer
 
 - [Be a good Engineer](#be-a-good-engineer)
-  - [Coding Platforms](#coding-platforms)
+  - [Coding Practice Platforms](#coding-platforms)
   - [Competitive Programming Resources](#competitive-programming-resources)
   - [DSA ](#dsa-)
   - [CSS-Games ](#css-games-)
@@ -20,7 +20,7 @@
   - [miscellaneous ](#miscellaneous-)
   - [Mind-bogling sites](#Mind-bogling-sites)
 
-## Coding Platforms<br>
+  ## Coding Practice Platforms<br>
 
 * HackerEarth: https://www.hackerearth.com/
 * HackerRank: https://www.hackerrank.com/
@@ -71,6 +71,13 @@
 * progate: https://progate.com/dashboard
 * enlight: https://enlight.nyc/
 * javascript30: https://javascript30.com/
+* devdocs: https://devdocs.io/
+* frontendmasters: https://frontendmasters.com/dashboard/
+* gitpod(workspaces): https://gitpod.io/new
+* dev.to: https://dev.to/
+* uiverse(Open-Source UI elements): https://uiverse.io/
+* quickref.me(cheatsheets and quick references): https://quickref.me/
+* Make first contribution: https://firstcontributions.github.io/index.html
 
 <hr>
 
