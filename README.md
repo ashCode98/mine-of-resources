@@ -478,3 +478,4 @@
 * [peerlist](https://peerlist.io/projects?month=Dec2023)
 * [a-curated-compilation-100-github-repositories](https://javascript.plainenglish.io/a-curated-compilation-100-github-repositories-featuring-awesome-lists-5fe6a235dd79)
 * [Code Beautify(Code Formatter, JSON Beautifier and more)](https://codebeautify.org/)
+* [40 Projects to practice HTMl and css](https://scribehow.com/page/40_Projects_to_Practice_HTML_and_CSS__VhQozw10R-S2txAuIvnT3A?sale_id=HryWhx4N-ozntkGXU1jkrA%3D%3D&product_id=-YQCQKzGVQMcJ3s09nq1iw%3D%3D&product_permalink=mslvf)
