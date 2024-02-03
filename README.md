@@ -145,12 +145,13 @@
 - Devswag(Get swags and goodies): <https://devswag.io/>
 
 - 92+ Productivity Tools:-
-![](92Tools.jpg)
+![Image description](92Tools.jpg)
 
 ## AI Tools  
 
-![](Productive_AI_apps.webp)
-<br><br>*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
+![Productive AI apps](Productive_AI_apps.webp)
+
+*[100+ AI Tools](https://www.notion.so/ashcode98/List-of-100-AI-Tools-b4d5bc765a0646e09f8af7b0e95a86de?pvs=4)
 
 ## YouTube Channels
 
@@ -230,6 +231,7 @@
 - [codehouse.vercel.app](https://codehouse.vercel.app/)
 - [developer-cheatsheets.com](http://developer-cheatsheets.com/)
 - [All-cheat-sheet.org](https://cheat-sheets.org/)
+
 
 ## Free hosting sites  
 
@@ -434,7 +436,7 @@
 - [awesome things for the Web](https://andreasbm.github.io/)
 - [theuselessweb](https://theuselessweb.com/)
 - [neal.fun](https://neal.fun/)
-- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS]( )
+- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://www.grand-illusions.com/)
 
 ## miscellaneous
 
