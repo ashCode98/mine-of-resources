@@ -78,6 +78,7 @@
 - uiverse(Open-Source UI elements): <https://uiverse.io/>
 - quickref.me(cheatsheets and quick references): <https://quickref.me/>
 - Make first contribution: <https://firstcontributions.github.io/index.html>
+- devv: <https://devv.ai/en>
 
 ## Competitive Programming Resources
   
