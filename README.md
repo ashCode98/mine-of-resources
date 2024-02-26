@@ -1,7 +1,7 @@
 # Be a good Engineer
 
 - [Be a good Engineer](#be-a-good-engineer)
-  - [Coding Practice Platforms](#coding-practice-platforms)
+  - [Apps](#apps)
   - [Competitive Programming Resources](#competitive-programming-resources)
   - [DSA](#dsa)
   - [CSS-Games](#css-games)
@@ -17,10 +17,10 @@
   - [Courses](#courses)
   - [GitHub Repositories](#github-repositories)
   - [Remote jobs](#remote-jobs)
+  - [Mind-bogling-sites](#mind-bogling-sites)
   - [miscellaneous](#miscellaneous)
-  - [Mind-bogling sites](#mind-bogling-sites)
 
-## Coding Practice Platforms
+## Apps
 
 - HackerEarth: <https://www.hackerearth.com/>
 - HackerRank: <https://www.hackerrank.com/>
@@ -30,11 +30,11 @@
 - Codeforces: <https://codeforces.com/>
 - Microsoft MakeCode: <https://makecode.com>
 - Pepcoding: <https://www.pepcoding.com/>
-- FreeCodeCamp: <https://www.freecodecamp.org/>
-- THe odin Project: <https://www.theodinproject.com/>
+- FreeCodeCamp(Favorite): <https://www.freecodecamp.org/>
+- The odin Project(Favorite): <https://www.theodinproject.com/>
 - TopCoder: <https://www.topcoder.com/>
 - SPOJ: <https://www.spoj.com/>
-- Codecademy: <https://www.codecademy.com/>
+- Codecademy(Favorite): <https://www.codecademy.com/>
 - AtCoder: <https://atcoder.jp/>
 - DMOJ: <https://dmoj.ca/>
 - codingame: <https://www.codingame.com/start>
@@ -67,10 +67,10 @@
 - Learn Anything: <https://learn-anything.xyz/>
 - Lintcode: <https://www.lintcode.com/>
 - NeetCode.io: <https://neetcode.io/>
-- Codedamn: <https://codedamn.com/dashboard>
+- Codedamn(Good one): <https://codedamn.com/dashboard>
 - progate: <https://progate.com/dashboard>
 - enlight: <https://enlight.nyc/>
-- javascript30: <https://javascript30.com/>
+- javascript30(Favorite): <https://javascript30.com/>
 - devdocs: <https://devdocs.io/>
 - frontendmasters: <https://frontendmasters.com/dashboard/>
 - gitpod(workspaces): <https://gitpod.io/new>
@@ -79,6 +79,9 @@
 - quickref.me(cheatsheets and quick references): <https://quickref.me/>
 - Make first contribution: <https://firstcontributions.github.io/index.html>
 - devv: <https://devv.ai/en>
+- codedex.io(Favorite): <https://www.codedex.io/home>
+- codetogo: <https://codetogo.io/>
+- namae(Grab name for your new project): <https://namae.dev/>
 
 ## Competitive Programming Resources
   
@@ -232,7 +235,6 @@
 - [codehouse.vercel.app](https://codehouse.vercel.app/)
 - [developer-cheatsheets.com](http://developer-cheatsheets.com/)
 - [All-cheat-sheet.org](https://cheat-sheets.org/)
-
 
 ## Free hosting sites  
 
