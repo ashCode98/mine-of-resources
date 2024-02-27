@@ -82,6 +82,15 @@
 - codedex.io(Favorite): <https://www.codedex.io/home>
 - codetogo: <https://codetogo.io/>
 - namae(Grab name for your new project): <https://namae.dev/>
+- CodeToImage(Create screenshots of code): <https://codetoimage.com/>
+- edabit(coding challenges): <https://edabit.com/challenges>
+- hackr.io(Good blogs) :<https://hackr.io/blog/category/programming>
+- learn.shayhowe(Learn HTML & css): <https://learn.shayhowe.com/>
+- tutorialrepublic(essentials of web development technologies): <https://www.tutorialrepublic.com/>
+- marksheet(HTML and Css Tutorials): <https://marksheet.io/>
+- learn-js: <https://www.learn-js.org/>
+- learnjavascript(learn javascript): <https://learnjavascript.online/>
+- Guru99(Tutorials): <https://www.guru99.com/>
 
 ## Competitive Programming Resources
   
