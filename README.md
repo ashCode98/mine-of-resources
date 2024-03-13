@@ -22,6 +22,7 @@
 
 ## Apps
 
+- pillarstack(resources for frontend developers and web designers): <https://www.pillarstack.com/>
 - HackerEarth: <https://www.hackerearth.com/>
 - HackerRank: <https://www.hackerrank.com/>
 - LeetCode: <https://leetcode.com/>
@@ -32,6 +33,10 @@
 - Pepcoding: <https://www.pepcoding.com/>
 - FreeCodeCamp(Favorite): <https://www.freecodecamp.org/>
 - The odin Project(Favorite): <https://www.theodinproject.com/>
+- my.appacademy(Web Development Fundamentals): <https://my.appacademy.io/>
+- fullstackopen(Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript): <https://fullstackopen.com/en/>
+- devchallenges(build projects): <https://devchallenges.io/challenges>
+- : <>
 - TopCoder: <https://www.topcoder.com/>
 - SPOJ: <https://www.spoj.com/>
 - Codecademy(Favorite): <https://www.codecademy.com/>
@@ -39,7 +44,7 @@
 - DMOJ: <https://dmoj.ca/>
 - codingame: <https://www.codingame.com/start>
 - codewars: <https://www.codewars.com/>
-- coderbyte: <https://www.coderbyte.com/>
+- coderbyte: <https://www.coderbyte.com/>S
 - projecteuler: <https://www.projecteuler.net/>
 - interviewwbit: <https://www.interviewbit.com/>
 - GFG Practice: <https://practice.geeksforgeeks.org/>
@@ -230,6 +235,8 @@
 - [160+ Interview Essentials](https://madzadev.notion.site/160-Interview-Essentials-dac0933ff0744fb2be71c12f495c1f60)
 - [Project Building Tool Kit](https://mdjunaidap.notion.site/mdjunaidap/a5b2921835db4b139d5f02dcde2620e6?v=27cc832e7a3f4bf89a4fd0366e78e939)
 - [Full stack developer roadmap](https://mdjunaidap.notion.site/mdjunaidap/Clear-Cut-Full-Stack-Developer-Roadmap-2021-300-Resources-8b832a1548d04bcba345c38d3e59a5c9)
+- [UI-UX guide](https://mdrizwan.notion.site/UI-UX-Guide-Essential-Tools-and-Techniques-ddfd9b02f22f4065979038ef255660df)
+
 
 ## Find various cheat-sheets for various programming languages and frameworks
 
@@ -463,3 +470,4 @@
 - [a-curated-compilation-100-github-repositories](https://javascript.plainenglish.io/a-curated-compilation-100-github-repositories-featuring-awesome-lists-5fe6a235dd79)
 - [Code Beautify(Code Formatter, JSON Beautifier and more)](https://codebeautify.org/)
 - [40 Projects to practice HTMl and css](https://scribehow.com/page/40_Projects_to_Practice_HTML_and_CSS__VhQozw10R-S2txAuIvnT3A?sale_id=HryWhx4N-ozntkGXU1jkrA%3D%3D&product_id=-YQCQKzGVQMcJ3s09nq1iw%3D%3D&product_permalink=mslvf)
+- [useful blogs ON CodeForce](https://codeforces.com/blog/entry/125623)
