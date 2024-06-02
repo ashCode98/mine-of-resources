@@ -20,6 +20,7 @@
   - [Remote jobs](#remote-jobs)
   - [Mind-bogling-sites](#mind-bogling-sites)
   - [miscellaneous](#miscellaneous)
+  - [C++ Libraries](#c-libraries)
 
 ## Apps
 
@@ -624,12 +625,8 @@ Tools and Softwares](https://www.notion.so/Resource-2-0-needs-to-be-kept-0b93bd4
 Websites to learn code](https://mikkegoes.com/learn-to-code-for-free/)
 - [learn how multiprocessing(CPU)
 works](https://cpu.land/)
-- [Find various blogs ralated
-to programming](https://www.theinsaneapp.com/)
 - [50
 Best Resources for Learning SQL](https://learnsql.com/blog/ultimate-resources-for-learning-sql/i)
-- [Project-awesome](https://project-awesome.org/)
-- [peerlist](https://peerlist.io/projects?month=Dec2023)
 - [a-curated-compilation-100-github-repositories](https://javascript.plainenglish.io/a-curated-compilation-100-github-repositories-featuring-awesome-lists-5fe6a235dd79)
 - [Code Beautify(Code Formatter,
 JSON Beautifier and more)](https://codebeautify.org/)
@@ -637,3 +634,9 @@ JSON Beautifier and more)](https://codebeautify.org/)
 Projects to practice HTMl and css](https://scribehow.com/page/40_Projects_to_Practice_HTML_and_CSS__VhQozw10R-S2txAuIvnT3A?sale_id=HryWhx4N-ozntkGXU1jkrA%3D%3D&product_id=-YQCQKzGVQMcJ3s09nq1iw%3D%3D&product_permalink=mslvf)
 - [useful blogs ON
 CodeForce](https://codeforces.com/blog/entry/125623)
+
+## C++ Libraries
+
+- [NUI CPP](https://nuicpp.org/)
+- [Drogon](https://drogon.org/)
+- [crowcpp](https://crowcpp.org/master/)
