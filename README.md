@@ -24,7 +24,9 @@
 
 ## Apps
 
+- (Hackattic challenges)[https://hackattic.com/challenges]
 - TLE Eliminators: [https://www.tle-eliminators.com/cp-sheet](https://www.tle-eliminators.com/cp-sheet)
+- Codecrafters: [https://app.codecrafters.io/catalog]
 - Make project: [https://bigdevsoon.me/]
 - Full stack Foundations: [https://www.fullstackfoundations.com/]
 - Github stars and forks ranking list: [https://evanli.github.io/Github-Ranking/](https://evanli.github.io/Github-Ranking/)
