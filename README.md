@@ -131,8 +131,6 @@ TypeScript): [https://fullstackopen.com/en/](https://fullstackopen.com/en/)
 
 ## Competitive Programming
 
-Resources
-
 - Algorithms for CP: [https://cp-algorithms.com/index.html](https://cp-algorithms.com/index.html)
 - CSES Problem Set: [https://cses.fi/problemset/](https://cses.fi/problemset/)
 - Competitive Programming Topic-List: [https://blog.shahjalalshohag.com/topic-list/](https://blog.shahjalalshohag.com/topic-list/)
@@ -415,19 +413,19 @@ frameworks
 
 ## GitHub Repositories
 
-| Name | Description | Category |
-| --- | --- | --- |
-| <https://github.com/ashCode98/awesome-youtubers> | Curated list of helpful channels | General |
-| <https://github.com/sindresorhus/awesome> | The “awesome” repository is a collection
-of curated lists of resources on various topics | General |
-| <https://github.com/muchirijane/learning-code-through-github-repos> | There are amazing resources for newbies to
-learn and develop their skills. | General |
-| <https://github.com/dipakkr/A-to-Z-Resources-for-Students> | Curated list of resources for college
-students | General |
-| <https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR> | A collection of a lots of useful
-bookmarks | Bookmark |
-| <https://github.com/ashCode98/awesome-lists> | curated list of curated list | General |
-| <https://github.com/AllThingsSmitty/must-watch-javascript> | This is a collection of well-received
+| Name                                                                | Description                                | Category |
+| ------------------------------------------------------------------- | ------------------------------------------ | -------- |
+| <https://github.com/ashCode98/awesome-youtubers>                    | Curated list of helpful channels           | General  |
+| <https://github.com/sindresorhus/awesome>                           | The “awesome” repository is a collection   |
+| of curated lists of resources on various topics                     | General                                    |
+| <https://github.com/muchirijane/learning-code-through-github-repos> | There are amazing resources for newbies to |
+| learn and develop their skills.                                     | General                                    |
+| <https://github.com/dipakkr/A-to-Z-Resources-for-Students>          | Curated list of resources for college      |
+| students                                                            | General                                    |
+| <https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR>                  | A collection of a lots of useful           |
+| bookmarks                                                           | Bookmark                                   |
+| <https://github.com/ashCode98/awesome-lists>                        | curated list of curated list               | General  |
+| <https://github.com/AllThingsSmitty/must-watch-javascript>          | This is a collection of well-received      |
 talks about JavaScript covering topics such as React, functional
 programming, performance, frameworks, debugging, tooling, leveling up,
 and more. | Javascript |
