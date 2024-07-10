@@ -24,7 +24,15 @@
 
 ## Apps
 
+- (Top1000 GitHub Repositories)[https://top1000repos.com/]
 - (Hackattic challenges)[https://hackattic.com/challenges]
+- (best resource on reddit)[https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F]
+- (realworld coding challenges)[https://codingchallenges.substack.com/]
+- (toolbox)[https://10015.io/]
+- (rosettacode)[https://rosettacode.org/wiki/Rosetta_Code]
+- (coding challenges)[https://codingchallenges.fyi/]
+- (dev tool finder)[https://devhunt.org/]
+- (free resources for developers)[https://freesets.vercel.app/?ref=devhunt]
 - TLE Eliminators: [https://www.tle-eliminators.com/cp-sheet](https://www.tle-eliminators.com/cp-sheet)
 - Codecrafters: [https://app.codecrafters.io/catalog]
 - Make project: [https://bigdevsoon.me/]
