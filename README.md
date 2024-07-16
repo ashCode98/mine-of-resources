@@ -1,7 +1,7 @@
 # Be a good Engineer
 
 - [Be a good Engineer](#be-a-good-engineer)
-  - [Apps](#apps)
+  - [sites](#apps)
   - [Design Tools](#design-tools)
   - [Competitive Programming](#competitive-programming)
   - [DSA](#dsa)
@@ -21,10 +21,19 @@
   - [miscellaneous](#miscellaneous)
   - [C++ Libraries](#c-libraries)
 
-## Apps
+## sites
 
 - (Top1000 GitHub Repositories)[https://top1000repos.com/]
+- (Project-ideas-1)[https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11]
+- (project-ideas-2)[https://github.com/karan/Projects]
+- (project-ideas-3)[https://github.com/vicky002/1000_Projects]
+- (Learn by doing)[https://programmingbydoing.com/]
+- (projects implemented in different languages)[https://github.com/karan/Projects-Solutions]
+- (hexlet)[https://hexlet.io/]
+- (Upskill)[https://upskillcourses.com/dashboard]
 - (Good challenges)[https://thecodingtrain.com/]
+- (Tutsplus-tutorials)[https://tutsplus.com/]
+- (overAPI: cheat-sheets)[https://overapi.com/]
 - (Hackattic challenges)[https://hackattic.com/challenges]
 - (best resource on reddit)[https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F]
 - (realworld coding challenges)[https://codingchallenges.substack.com/]
@@ -62,8 +71,7 @@
 - FreeCodeCamp(Favorite): [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - The odin Project(Favorite): [https://www.theodinproject.com/](https://www.theodinproject.com/)
 - my.appacademy(Web Development Fundamentals): [https://my.appacademy.io/](https://my.appacademy.io/)
-- fullstackopen(Learn React, Redux, Node.js, MongoDB, GraphQL and
-TypeScript): [https://fullstackopen.com/en/](https://fullstackopen.com/en/)
+- fullstackopen(Learn React, Redux): [https://fullstackopen.com/en/](https://fullstackopen.com/en/)
 - devchallenges(build projects): [https://devchallenges.io/challenges](https://devchallenges.io/challenges)
 - TopCoder: [https://www.topcoder.com/](https://www.topcoder.com/)
 - SPOJ: [https://www.spoj.com/](https://www.spoj.com/)
