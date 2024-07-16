@@ -217,7 +217,6 @@ the best for Flutter](https://www.youtube.com/@NetNinja)
 - [freeCodeCamp](https://www.youtube.com/@freecodecamp)
 - [Programming
 with Mosh](https://www.youtube.com/@programmingwithmosh)
-- [NYU
 - Deep Learning Playlist](<https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq>)
 - [Rachel
 Thomas Playlist](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
