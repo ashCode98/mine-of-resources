@@ -124,13 +124,7 @@
 - codetogo: [https://codetogo.io/](https://codetogo.io/)
 - namae(Grab name for your new project): [https://namae.dev/](https://namae.dev/)
 - CodeToImage(Create screenshots of code): [https://codetoimage.com/](https://codetoimage.com/)
-- edabit(coding challenges): [https://edabit.com/challenges](https://edabit.com/challenges)
 - hackr.io(Good blogs) :[https://hackr.io/blog/category/programming](https://hackr.io/blog/category/programming)
-- learn.shayhowe(Learn HTML & css): [https://learn.shayhowe.com/](https://learn.shayhowe.com/)
-- tutorialrepublic(essentials of web development technologies): [https://www.tutorialrepublic.com/](https://www.tutorialrepublic.com/)
-- marksheet(HTML and Css Tutorials): [https://marksheet.io/](https://marksheet.io/)
-- learn-js: [https://www.learn-js.org/](https://www.learn-js.org/)
-- learnjavascript(learn javascript): [https://learnjavascript.online/](https://learnjavascript.online/)
 
 ## Design Tools
 
