@@ -317,21 +317,12 @@ guide](https://www.notion.so/UI-UX-Guide-Essential-Tools-and-Techniques-ddfd9b02
 ## Courses
 
 - Class Central: [https://www.classcentral.com/report/linkedin-learning-free-learning-paths/](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
-- edX: [https://www.edx.org/](https://www.edx.org/)
-- Grok Academy: [https://groklearning.com/](https://groklearning.com/)
-- Khan Academy: [https://www.khanacademy.org/](https://www.khanacademy.org/)
-- Open Culture: [https://www.openculture.com/](https://www.openculture.com/)
-- Udacity: [https://learn.udacity.com/](https://learn.udacity.com/)
-- Udemy: [https://www.udemy.com/](https://www.udemy.com/)
-- AI for Everyone: [https://www.coursera.org/learn/ai-for-everyone](https://www.coursera.org/learn/ai-for-everyone)
 - Top Universities: [https://www.networklawreview.org/](https://www.networklawreview.org/)
 - Digitaldefynd: [https://digitaldefynd.com/](https://digitaldefynd.com/)
-- Theodinproject: [https://www.theodinproject.com/](https://www.theodinproject.com/)
 - Alison: [https://alison.com/en](https://alison.com/en)
 - Real.discount: [https://www.real.discount/](https://www.real.discount/)
 - Great Learning: [https://www.mygreatlearning.com/academy](https://www.mygreatlearning.com/academy)
 - Learn Vern: [https://www.learnvern.com/](https://www.learnvern.com/)
-- The Odin Project: [https://www.theodinproject.com/](https://www.theodinproject.com/)
 - saylor Academy: [https://learn.saylor.orgs](https://learn.saylor.orgs/)
 
 ## Remote jobs
