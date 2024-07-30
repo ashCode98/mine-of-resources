@@ -30,9 +30,7 @@
 - (Learn by doing)[https://programmingbydoing.com/]
 - (projects implemented in different languages)[https://github.com/karan/Projects-Solutions]
 - (hexlet)[https://hexlet.io/]
-- (Upskill)[https://upskillcourses.com/dashboard]
 - (Good challenges)[https://thecodingtrain.com/]
-- (Tutsplus-tutorials)[https://tutsplus.com/]
 - (overAPI: cheat-sheets)[https://overapi.com/]
 - (Hackattic challenges)[https://hackattic.com/challenges]
 - (best resource on reddit)[https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F]
@@ -50,7 +48,6 @@
 - codeimages: [https://chalk.ist/](https://chalk.ist/)
 - pillarstack(resources for frontend developers and web designers): [https://www.pillarstack.com/](https://www.pillarstack.com/)
 - codehelp by Love Babbar: [https://www.codehelp.in/](https://www.codehelp.in/)
-- mastering backend: [https://app.masteringbackend.com/](https://app.masteringbackend.com/)
 - Practice projects: [https://www.codementor.io/projects](https://www.codementor.io/projects)
 - Big Front End Interview preparation- [https://bigfrontend.dev/](https://bigfrontend.dev/)
 - frontend Eval(**exercises to practice**):[https://frontendeval.com/](https://frontendeval.com/)
@@ -61,69 +58,44 @@
 - One of the best have I ever seen: [https://www.greatfrontend.com/prepare](https://www.greatfrontend.com/prepare)
 - HackerEarth: [https://www.hackerearth.com/](https://www.hackerearth.com/)
 - sourcegraph(Code search and an AI assistant): [https://sourcegraph.com/search](https://sourcegraph.com/search)
-- HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
-- LeetCode: [https://leetcode.com/](https://leetcode.com/)
-- Scaler Topics InterviewBit: [https://www.scaler.com/topics/](https://www.scaler.com/topics/)
-- Codechef: [https://www.codechef.com/](https://www.codechef.com/)
-- Codeforces: [https://codeforces.com/](https://codeforces.com/)
-- Microsoft MakeCode: [https://makecode.com](https://makecode.com/)
-- Pepcoding: [https://www.pepcoding.com/](https://www.pepcoding.com/)
 - FreeCodeCamp(Favorite): [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - The odin Project(Favorite): [https://www.theodinproject.com/](https://www.theodinproject.com/)
-- my.appacademy(Web Development Fundamentals): [https://my.appacademy.io/](https://my.appacademy.io/)
 - fullstackopen(Learn React, Redux): [https://fullstackopen.com/en/](https://fullstackopen.com/en/)
 - devchallenges(build projects): [https://devchallenges.io/challenges](https://devchallenges.io/challenges)
 - TopCoder: [https://www.topcoder.com/](https://www.topcoder.com/)
 - SPOJ: [https://www.spoj.com/](https://www.spoj.com/)
 - Codecademy(Favorite): [https://www.codecademy.com/](https://www.codecademy.com/)
 - AtCoder: [https://atcoder.jp/](https://atcoder.jp/)
-- DMOJ: [https://dmoj.ca/](https://dmoj.ca/)
-- codingame: [https://www.codingame.com/start](https://www.codingame.com/start)
 - codewars: [https://www.codewars.com/](https://www.codewars.com/)
-- coderbyte: [https://www.coderbyte.com/](https://www.coderbyte.com/)
 - projecteuler: [https://www.projecteuler.net/](https://www.projecteuler.net/)
 - interviewwbit: [https://www.interviewbit.com/](https://www.interviewbit.com/)
 - GFG Practice: [https://practice.geeksforgeeks.org/](https://practice.geeksforgeeks.org/)
 - W3Schools: [https://www.w3schools.com/](https://www.w3schools.com/)
 - TakeUForward: [https://takeuforward.org/](https://takeuforward.org/)
-- TutorialsPoint: [https://www.tutorialspoint.com/index.htm](https://www.tutorialspoint.com/index.htm)
 - Sololearn: [https://www.sololearn.com/](https://www.sololearn.com/)
 - StudyTonight: [https://www.studytonight.com/](https://www.studytonight.com/)
 - MDN Web Docs(best for Development): [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 - Roadmap.sh(All the roadmaps): [https://roadmap.sh/](https://roadmap.sh/)
 - Replit: [https://replit.com/](https://replit.com/)
 - Codepen: [https://codepen.io/](https://codepen.io/)
-- Code Conquest: [https://www.codeconquest.com/](https://www.codeconquest.com/)
 - Work@tech: [https://workat.tech/profile/ashcode98](https://workat.tech/profile/ashcode98)
 - Boot.dev: [https://boot.dev/](https://boot.dev/)
-- codesignal: [https://app.codesignal.com/](https://app.codesignal.com/)
 - Exercism: [https://exercism.org/](https://exercism.org/)
 - Frontend-mentor: [https://www.frontendmentor.io/](https://www.frontendmentor.io/)
 - Frontend practice: [https://www.frontendpractice.com/](https://www.frontendpractice.com/)
 - icodethis: [https://icodethis.com/](https://icodethis.com/)
-- interviewcake: [https://www.interviewcake.com/](https://www.interviewcake.com/)
-- Interviewing.io: [https://interviewing.io/](https://interviewing.io/)
 - Just for fun: [https://justforfun.io/](https://justforfun.io/)
 - Kaggle: [https://www.kaggle.com/](https://www.kaggle.com/)
 - Learn Anything: [https://learn-anything.xyz/](https://learn-anything.xyz/)
 - Lintcode: [https://www.lintcode.com/](https://www.lintcode.com/)
-- NeetCode.io: [https://neetcode.io/](https://neetcode.io/)
 - Codedamn(Good one): [https://codedamn.com/dashboard](https://codedamn.com/dashboard)
-- progate: [https://progate.com/dashboard](https://progate.com/dashboard)
-- enlight: [https://enlight.nyc/](https://enlight.nyc/)
 - javascript30(Favorite): [https://javascript30.com/](https://javascript30.com/)
 - devdocs: [https://devdocs.io/](https://devdocs.io/)
-- frontendmasters: [https://frontendmasters.com/dashboard/](https://frontendmasters.com/dashboard/)
-- gitpod(workspaces): [https://gitpod.io/new](https://gitpod.io/new)
-- dev.to: [https://dev.to/](https://dev.to/)
 - uiverse(Open-Source UI elements): [https://uiverse.io/](https://uiverse.io/)
 - quickref.me(cheatsheets and quick references): [https://quickref.me/](https://quickref.me/)
-- Make first contribution: [https://firstcontributions.github.io/index.html](https://firstcontributions.github.io/index.html)
 - devv: [https://devv.ai/en](https://devv.ai/en)
 - codedex.io(Favorite): [https://www.codedex.io/home](https://www.codedex.io/home)
-- codetogo: [https://codetogo.io/](https://codetogo.io/)
 - namae(Grab name for your new project): [https://namae.dev/](https://namae.dev/)
-- CodeToImage(Create screenshots of code): [https://codetoimage.com/](https://codetoimage.com/)
 - hackr.io(Good blogs) :[https://hackr.io/blog/category/programming](https://hackr.io/blog/category/programming)
 
 ## Design Tools
@@ -301,20 +273,6 @@ stack developer roadmap](https://www.notion.so/Clear-Cut-Full-Stack-Developer-Ro
 - [UI-UX
 guide](https://www.notion.so/UI-UX-Guide-Essential-Tools-and-Techniques-ddfd9b02f22f4065979038ef255660df?pvs=21)
 
-## Cheet-sheets
-
-- [devhints.io](http://devhints.io/)
-- [gitsheet.wtf](https://gitsheet.wtf/)
-- [overapi.com](http://overapi.com/)
-- [grid.malven.co](http://grid.malven.co/)
-- [htmlreference.io](http://htmlreference.io/)
-- [cheat-sheets.org](http://cheat-sheets.org/)
-- [cheatography.com](http://cheatography.com/)
-- [htmlcheatsheet.com](http://htmlcheatsheet.com/)
-- [codehouse.vercel.app](https://codehouse.vercel.app/)
-- [developer-cheatsheets.com](http://developer-cheatsheets.com/)
-- [All-cheat-sheet.org](https://cheat-sheets.org/)
-
 ## Free hosting sites
 
 - InfinityFree: [https://infinityfree.net](https://infinityfree.net/)
@@ -356,20 +314,9 @@ guide](https://www.notion.so/UI-UX-Guide-Essential-Tools-and-Techniques-ddfd9b02
 - 🖥 [visualcv.com](http://visualcv.com/)
 - 📄 [zety.com](http://zety.com/)
 
-## Books
-
-- [it-books](http://it-ebooks.info/)
-- [awesome-progaming-books](https://github.com/zero-equals-false/awesome-programming-books)
-
 ## Courses
 
-- Hacksnation: [https://hacksnation.com/](https://hacksnation.com/)
-- Simplilearn: [https://www.simplilearn.com/](https://www.simplilearn.com/)
-- Educative.io: [https://www.educative.io/](https://www.educative.io/)
-- Free Computer Science Courses: [https://www.coursera.org/browse/computer-science](https://www.coursera.org/browse/computer-science)
-- MIT OpenCourseWare: [https://ocw.mit.edu/](https://ocw.mit.edu/)
 - Class Central: [https://www.classcentral.com/report/linkedin-learning-free-learning-paths/](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
-- Coursera: [https://www.coursera.org/](https://www.coursera.org/)
 - edX: [https://www.edx.org/](https://www.edx.org/)
 - Grok Academy: [https://groklearning.com/](https://groklearning.com/)
 - Khan Academy: [https://www.khanacademy.org/](https://www.khanacademy.org/)
