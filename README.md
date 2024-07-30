@@ -23,6 +23,8 @@
 
 ## sites
 
+- [egghead](https://egghead.io/)
+- [freecourses.github.io](https://freecourses.github.io/)
 - (Top1000 GitHub Repositories)[https://top1000repos.com/]
 - (Project-ideas-1)[https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11]
 - (project-ideas-2)[https://github.com/karan/Projects]
