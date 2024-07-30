@@ -314,17 +314,6 @@ guide](https://www.notion.so/UI-UX-Guide-Essential-Tools-and-Techniques-ddfd9b02
 - 🖥 [visualcv.com](http://visualcv.com/)
 - 📄 [zety.com](http://zety.com/)
 
-## Courses
-
-- Class Central: [https://www.classcentral.com/report/linkedin-learning-free-learning-paths/](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/)
-- Top Universities: [https://www.networklawreview.org/](https://www.networklawreview.org/)
-- Digitaldefynd: [https://digitaldefynd.com/](https://digitaldefynd.com/)
-- Alison: [https://alison.com/en](https://alison.com/en)
-- Real.discount: [https://www.real.discount/](https://www.real.discount/)
-- Great Learning: [https://www.mygreatlearning.com/academy](https://www.mygreatlearning.com/academy)
-- Learn Vern: [https://www.learnvern.com/](https://www.learnvern.com/)
-- saylor Academy: [https://learn.saylor.orgs](https://learn.saylor.orgs/)
-
 ## Remote jobs
 
 - [arc.dev](https://arc.dev/)
